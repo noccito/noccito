@@ -1,0 +1,1757 @@
+    <!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Jean Christophe Thuan at Fab Academy 2017</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Additional fonts for this theme -->
+    <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+
+    <!-- Custom styles for this theme -->
+    <link href="css/agency.min.css" rel="stylesheet">
+
+    <!-- Temporary navbar container fix until Bootstrap 4 is patched -->
+    <style>
+    .navbar-toggler {
+        z-index: 1;
+    }
+    
+    @media (max-width: 576px) {
+        nav > .container {
+            width: 100%;
+        }
+    }
+    </style>
+    
+  //Google analytics noccito gmail
+          <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-74839608-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    
+
+</head>
+
+<body id="page-top">
+
+    <!-- Navigation -->
+    <nav class="navbar fixed-top navbar-toggleable-md navbar-inverse" id="mainNav">
+        <div class="container">
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                Menu <i class="fa fa-bars"></i>
+            </button>
+            <a class="navbar-brand page-scroll" href="#page-top">JC THUAN</a>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link page-scroll" href="#Project">Project</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link page-scroll" href="#portfolio">Assignments</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link page-scroll" href="#about">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link page-scroll" href="#team">SIDE PROJECTS </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link page-scroll" href="#contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-lead-in">The NotSmart Washroom</div>
+                <div class="intro-heading">Project</div>
+                <a href="#Project" class="page-scroll btn btn-xl">Tell Me More</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Project -->
+    <section id="Project">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">PROJECT</h2>
+                    <h3 class="section-subheading text-muted">The toilet seat is one of the greatest incubator for ideas. <a href= "Toilet-Seat-Scale.html"> >>Access the project</a></h3>
+                </div>
+            </div>
+            <div class="row text-center">
+                  <div class="col-md-4">
+                    
+                    <img src="img/icons/weight-scales-weighter-128.png" alt="toilet thinking" style="background-color:#fed136;width:100px;height:100px;" 
+                         />
+                
+                    
+                        
+                    <h4 class="service-heading">A REAL PROBLEM FOR MAN </h4>
+                    <p class="text-muted">When is the last time you weight yourself? Whether you cannot locate the scale in the bathroom, or forgot about using it, or just have no space for a scale, a mon only weight himself every two months.</p>
+                </div>
+                <div class="col-md-4">
+                   <img src="img/icons/toilet.icon.issue.png" alt="toilet thinking" style="background-color:#fed136;width:100px;height:100px;" />
+                    
+                    <h4 class="service-heading">INVESTIGATION</h4>
+                    <p class="text-muted">Where is the one place we go at least once a day? </p>
+                </div>
+                <div class="col-md-4">
+                     <img src="img/icons/solution%20toilet%20icon.png" alt="toilet thinking" style="background-color:#fed136;width:100px;height:100px;" />
+                    
+                    <h4 class="service-heading">SOLUTION</h4>
+                    <p class="text-muted">An integrated toilet seat/ toilet mat seems the ideal solution, and idea that was suggested 7 years ago, but not yet commercialised</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Portfolio Grid -->
+    <section id="portfolio" class="bg-faded">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">FabLab 2017 Assignements</h2>
+                    <h3 class="section-subheading text-muted">Everyweek a new challenge</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="https://s3.amazonaws.com/fab17img/website/Assignments/01-thumbnail.jpg" class="img-fluid" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Week 1</h4>
+                        <p class="text-muted">01. PRINCIPLES & PRACTICES, PROJECT MANAGEMENT</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="https://github.com/jean-christophe/JCT/blob/master/02-thumbnail.jpg?raw=true" class="img-fluid" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Week 2</h4>
+                        <p class="text-muted">02. COMPUTER-AIDED DESIGN (Feb 1)</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="https://github.com/jean-christophe/JCT/blob/Week3/03-thumbnail.jpg?raw=true" class="img-fluid" alt="">
+                    </a>
+                    
+                    <div class="portfolio-caption">
+                        <h4>Week 3</h4>
+                        <p class="text-muted">03. COMPUTER-CONTROLLED CUTTING <BR>(Feb 8)</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="https://github.com/jean-christophe/JCT/blob/week4/Week4.thumbnail.jpg?raw=true" class="img-fluid" alt="">
+                    </a>
+                    
+                    
+                    <div class="portfolio-caption">
+                        <h4>Week 4</h4>
+                        <p class="text-muted">04. ELECTRONICS PRODUCTION (Feb 15)</p>
+                    </div>
+                </div>
+                
+                
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/w5-thumbnail.jpg" class="img-fluid" alt="" with="340">
+                    </a>
+                
+                    <div class="portfolio-caption">
+                        <h4>Week 5</h4>
+                       <p class="text-muted"> 3D scanning and printing (Feb 22) </p>
+                    </div>
+                </div>
+                
+                
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/w6-Final-board-Eagle.jpg" class="img-fluid" alt="" height="400">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Week 6</h4>
+                        <p class="text-muted">06. electronics design<BR>(Mar 1)
+
+</p>
+               
+                </div>
+            </div>
+            
+            <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal7" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/w7-thumbnailv2.jpg" class="img-fluid" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Week 7</h4>
+
+                        <p class="text-muted">07. COMPUTER-CONTROLLED MACHINING<BR>
+
+                   
+</p>
+                    </div>
+                </div>
+             <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal8" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/w8-arduino.jpg" class="img-fluid" alt="" with="300">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Week 8</h4>
+                        <p class="text-muted">08. EMBEDDED PROGRAMMING<BR>
+</p>
+                    </div>
+                </div>
+             <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal9" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/W9_mechanical_design.jpg" class="img-fluid" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Week 9 & 10</h4>
+                        <p class="text-muted">09. Mechanical Design & 10. Machine Design <BR>
+
+</p>
+        
+                    </div>
+                    </div>
+             <div class="col-md-4 col-sm-6 portfolio-item">
+               <a href="#portfolioModal11" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/W10-summary-image.jpg" class="img-fluid" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Week 11</h4>
+                        <p class="text-muted">11. OUTPUT DEVICES
+</p>
+                    </div>
+                 
+                    </div>
+             <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal12" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/w12_thumbnail.jpg" class="img-fluid" alt="" width="400">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Week 12</h4>
+                        <p class="text-muted">12. MOLDING AND CASTING 
+
+</p>
+                            
+                                     </div>
+                 
+                    </div>
+             <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal13" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/w12-scale-dismantle.jpg" class="img-fluid" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Week 13</h4>
+                        <p class="text-muted">13. INPUT DEVICES </p>
+                    
+                        
+                 </div>
+                        </div>
+                
+             <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal14" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/w14-heroe-shot-cloth-frame-thumnail.jpg" class="img-fluid" alt="" with="400">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Week 14</h4>
+                        <p class="text-muted">14. COMPOSITES</p>
+                                </div>
+                        </div>
+                        
+        <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal15" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/w15-eagle-bridge-PNG.png" class="img-fluid" alt="" width="400">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Week 15</h4>
+                        <p class="text-muted">15. NETWORKING AND COMMUNICATIONS </p>
+                         </div>
+                        </div>
+                       
+        <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal12" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="https://s3.amazonaws.com/fab17img/website/Assignments/06-thumbnail.jpg" class="img-fluid" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Week 16</h4>
+                        <p class="text-muted">16. INTERFACE AND APPLICATION PROGRAMMING </p>
+                         </div>
+                        </div>
+
+                  <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal12" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="https://s3.amazonaws.com/fab17img/website/Assignments/06-thumbnail.jpg" class="img-fluid" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Week 17</h4>
+                        <p class="text-muted">17. APPLICATIONS AND IMPLICATIONS </p>
+                         </div>
+                        </div>
+
+  <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal12" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="https://s3.amazonaws.com/fab17img/website/Assignments/06-thumbnail.jpg" class="img-fluid" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Week 18</h4>
+                        <p class="text-muted">18. INVENTION, INTELLECTUAL PROPERTY, AND INCOME</p>
+                         </div>
+                        </div>
+                        
+                        
+                        
+                            
+                    </div>
+                 
+                </div>
+            </div>
+            
+        </div>
+    </section>
+
+    <!-- About -->
+    <section id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">JC THUAN</h2>
+                    <h3 class="section-subheading text-muted">Ideas and words do not count, only actions matter</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="timeline">
+                        <li>
+                            <div class="timeline-image">
+                                <img class="rounded-circle img-fluid" src="img/Screen-Shot-2017-01-31-at-15.36.29.jpg" alt="JC-nino">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>1986-Paris</h4>
+                                    <h4 class="subheading">My Haircut</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">Creative was not</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <img class="rounded-circle img-fluid" src="img/microfactory.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>2016-Brussels</h4>
+                                    <h4 class="subheading">My encounter with the maker movement</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">I accidently came accross the microfactory in brussels, a pool of friendly and super energetic maker group in brussels, led by a super motivated person called Gilles. I loved it ! and realised I wanted to develop my skills in this are.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="timeline-image">
+                                <img class="rounded-circle img-fluid" src="img/fablabbcn.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>Jan 2017-Barcelona</h4>
+                                    <h4 class="subheading">The Fab Academy 2017</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">It was time to take a sabatical from work! and study again, with the clear objective to develop and launch some of the ideas i had in my head</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <img class="rounded-circle img-fluid" src="img/cristalball.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>June 2017</h4>
+                                    <h4 class="subheading">The future</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">A cristall ball would be a nice to have, but even better (more fun) tolets code, 3D design, prototype, refine this future</p>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <h4>Next
+                                    <br>Coming
+                                    <br>Soon!</h4>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Team -->
+    <section id="team" class="bg-faded">
+        <div class="container">
+            <div class="row">
+                
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">SIDE PROJECTS</h2>
+                    <h3 class="section-subheading text-muted">There is fablab and there are those odd projects I enjoy developing.</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/noccitoframe.jpg" class="mx-auto rounded-circle" alt="">
+                        <h4>NOCCITO Urban poetry  </h4>
+                        <p class="text-muted">Flowers + Frames spread out in the city. I see it as something poetic, short-living, and wonderfully satisfying</p>
+                      
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/burgerbox.jpg" class="mx-auto rounded-circle" alt="">
+                        <h4>SuperBurgerBox</h4>
+                        <p class="text-muted">One hand only to eat your burger menu</p>
+                        <ul class="list-inline social-buttons">
+                           
+                        
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/smartinvest.jpg" class="mx-auto rounded-circle" alt="">
+                        <h4>Smart Invest Your Small Changes</h4>
+                        <p class="text-muted">How to make the best use of the leftover currencies you have when travelling abroad</p>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2 text-center">
+                    <p class="large text-muted">A few more ideas coming soon</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Clients -->
+    <aside class="clients">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-6">
+                    <a href="#">
+                        <img src="" class="img-fluid d-block mx-auto" alt="">
+                    </a>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <a href="#">
+                        <img src="" class="img-fluid d-block mx-auto" alt="">
+                    </a>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <a href="#">
+                        <img src="" class="img-fluid d-block mx-auto" alt="">
+                    </a>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <a href="#">
+                        <img src="" class="img-fluid d-block mx-auto" alt="">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </aside>
+
+    <!-- Contact -->
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Contact</h2>
+                    <h3 class="section-subheading text-muted"><a href="mailto:jcthuan@hotmail.com?Subject=Lets'get in touch" target="_top">jcthuan@hotmail.com</a> 
+
+            
+
+                </div>
+             </div>
+              </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <span class="copyright">Copyright &copy; Your Website 2017</span>
+                </div>
+                <div class="col-md-4">
+                   
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline quicklinks">
+                        <li class="list-inline-item"><a href="#">Privacy Policy</a>
+                        </li>
+                        <li class="list-inline-item"><a href="#">Terms of Use</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Weekly Assignment Modals -->
+
+    <!-- Modal 1 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>Week 1</h2>
+                                <p class="item-intro text-muted">01. PRINCIPLES & PRACTICES, PROJECT MANAGEMENT</p>
+                                <img class="img-fluid d-block mx-auto" src="https://s3.amazonaws.com/fab17img/website/Assignments/01-full.jpg" alt="">
+                                <p class="learningoutcomes">Learning outcomes </BR>
+Explore and use website development tools.</BR>
+Formulate a final project proposal.</BR>
+Identify version control protocols.</p>
+                                <ul class="list-inline">
+                                    <li>Deliverables <li>
+                                    <li>Made a website and described how you did it.</li>
+<li>Introduced yourself. <a href="#about" target=" _blank"> >>> </a> </li>
+                                    <li>Documented steps for uploading files to archive.</li>
+                                    <li>Pushed to the class archive.<a href="#Project" target=" _blank"> >>> </a> </li>
+                                    <li>Described and made a sketch of your final project. <a href="/archives/2017/fablabbcn/students/48/img/GIT.HUB.WEBSITE.REFRESH.pdf" target=" _blank"> >>> </a> </li>
+                                </ul>
+                                    </BR>
+                                <p class="learningoutcomes">Feedback</BR>
+For the past 3 years as part of my job I have been debugging html pages or email when there was a glitch, or some modifications were needed, so I was somehow familiar with html language. However I never built a website in html myself so I found it an interesting excercise. It was also my first time using terminal command & github. </BR>
+
+    
+    <p class="h4">Web Template</p>
+        <p class="h4">Benefits of using Web Template</p>
+        <p>Web templates are great when you have limited experience in html, you benefit from best practices and latest trends in web user experience & user experience (responsive, animations, user path). It is also a source of inspiration, and very importantly it ensures your website has an important degree of consistency in terms of designs from the start.</p>
+        <BR>
+        <p class="h4">                                                                                              Drawback of using Web Template</p>
+        <p>What i am now finding is that you spend a lot of time understanding how the website and the corresponding CSS have been developped if you need to make a change to the webtemplate. Overall I would say if you are going to exactly use the section (DIV) and fonts and organisation from the template, template are greats. However if you think you need to make some customisation, I would have preferred to build the website from strach myself.</p>
+    
+<p class="h4">CSS Stylesheet</p>
+            <p>Stylesheet are a great way to ensure consistency in my website design. I have create a couple of additional class for </p>
+    
+    <p class="h4">Image storage</p>
+To overcome the image size limitations, i did two things. First I optimised pictures in photoshop (save for web as jpeg quality between 20 and 30 depending on how it looks). Secondly I searched what was the best data storage solution for publishing images on the web. The top remcommendation was to use of S3 amazon server to store large images. I therefore used S3 Amazon for storing my images. I need to explore Amazon S3 as it looks like a powerful solution for web hosting. However I was told i might to pay after a year of using Amazon S3, therefore i looked for an alternative solution. I have since transitioned the storage of images to a my own newly created git repository. I have also tried Google drive but it takes longer to display the image on the web (5 steps needed: go to google drive, select the image, make it shareable by right clicking, copy the URL provided, and modified it so it have the following syntax https://drive.google.com/uc?export=view&id=Image-ID".)</BR></p>
+                                    
+
+                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal 2 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>Week 2</h2>
+                                <p class="item-intro text-muted"> 02. COMPUTER-AIDED DESIGN </p>
+                                <img class="img-fluid d-block mx-auto" src="https://github.com/jean-christophe/JCT/blob/master/02-full.jpg?raw=true" alt="">
+                                <p>This week was challenging for me ! 3Design? Wow !? Below are pictures of how I fell this week</p>
+                                <img src="https://github.com/jean-christophe/JCT/blob/master/3D-how-I-feel.gif?raw=true" alt="How I felt this week">
+                                
+                                <p> <b>NEWBIE zone</b>:  As it was all new to me I tried to match the various tools I got exposed (listed above) to vs my projects needs and time. I was impressed by SolidWorks as it looks like the ideal tool for any engineering design. Blender looks extremely powerful, and I enjoyed using it after a intial shock :) when in front of the interface. Grasshoper programactic approach was very interesting, in particular in terms of machine shaped design, and the ability to collect data from external source (I am thinking Arduino sensors), to mofidy the 3D design based on this.</p>
+                                
+                                <BR>
+                                    <p> <b>PROJECT REQUIREMENTS VS EASE OF USE VS COST.</b> Based on the requirements of my project (3D Toilet and Toilet Seat containing electronics) and limited (none) knowlegde of 3D design, the fact SOLID WORKS is for Windows only, I had to limit myself to 3 tools for a more detailed trials of the tools. </p>
+                                     <p> The Tools selected to start with tutorials were Onshape (Free/Limited online 3D), Rhyno (Trial version), Fusion 3D (open source). To facilitate my selection I run 2 tests (or challenges).</p>
+                               
+                                 <p><b>THE BOLT 3D TEST</b></p> <BR>
+                            <p>Testing Onshape, Fusion 360 and Rhyno, making use of tutorials, to recreate a bolt in each tool</p>
+                                <img
+                            src= https://github.com/jean-christophe/JCT/blob/master/3D-Onshape-Bolt.jpg?raw=true>
+                                  <p><b>RESULT BOLT 3D TEST</b></p> <BR>
+                                <p><b>ONSHAPE</b> was probably the easiest and quickest tool out of the 3 to create the tool. Menu options is limited and clearly explained which makes it an ideal tool for beginner. Onshape is very similar to SolidWorks and include feature I really like (constraints for lines, object in relation to each other in the assembly mode). Yet there is an issue of performance with Onshape. As it is online tool, it can slow down from time to time.</p>
+                                <BR>
+                                   <p><b>RHYNO</b>: surpringly not the easiest tool to create a bolt. The method is similar than Onshape but includes many more steps.</p> 
+                                
+                                 <p><B>THE WASHROOM TOILET 3D TEST</B></p> 
+                            <p>As part of my final project I will need to create a 3D washoom and 3 seat cover. A</p>
+                                <img
+                            src= https://github.com/jean-christophe/JCT/blob/master/3D-Screenshot-Rhino.JPG?raw=true>
+                                     <img
+                            src= https://github.com/jean-christophe/JCT/blob/master/3D-rhino-Screenshot2.JPG?raw=true>
+                                  <p><b>RESULT WASHROOM 3D TEST</b></p>
+                                <p>I initially leaned toward Onshape. Unfortunately Onshape still lacks some 3D features I would need for my project: The method to create sphere to be able to create a toilet bowl is cumbersome. Moreover esthetics of the bowl is very limited in Testing Onshape. Regarding Fusion 3D I unfortunately did not have the time to run the tests with this tool yet.</p>
+                                    
+                                <p><b>FINAL TESTS RESULT</b></p>
+                                     <p>I selected Rhino vs Onshape, for two reasons: First Onshape is limited in terms of stylish design. Secondly, I have to admit having some fellow tutors, studens with expertise with Rhino also helped my choice. However i give the possibility to switch to Fusion 360 once i complete the tests with this software</p>
+                                                              <ul class="list-inline">
+                                    <li><b>DELIVERABLES</b> <li>
+                                    <li>Modelled experimental objects/part of a possible project in 2D and 3D software: See pictures above. </li>
+  <BR>
+
+                                    <li><b>Shown how you did it.</b> As I wanted to have a 3D toilet design with a certaine aesthetics, I opted out for Rhino. I got lucky and found a tutorial on how to make a toilet in a different software (MAYA), but that enable me to see each step of the process, starting with sphere, sphere cut, sphere split, extrusion of tube, joining of objects (water tank, toilet bowl, water evacuation tube), including filleting. I also follow a tuturial on cocoon sofa 3D for Rhyno design which helped with the toilet bowl shape. Finally some fellow students showed me two other methods in rhyno that did greatly improved the style of the water bowl.</li>
+                                    <BR>
+</li>
+                                    <li><b>Included your original design files.</b> Download here Rhyno file.<a href="https://github.com/jean-christophe/JCT/blob/master/3d-toilet-rhino.3dm?raw=true" target=" _blank"> >>> </a> </li>
+                                    <li>Try as many 2D/3D softwares you can: all 3D softwares listed above except Solidworks were tested to different degree </li>
+                                </ul>
+                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close 3D Assignement</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal 3 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                  <h2>Week 3</h2>
+                                <p class="item-intro text-muted">03. COMPUTER-CONTROLLED CUTTING.</p>
+                                <img class="img-fluid d-block mx-auto" src="https://github.com/jean-christophe/JCT/blob/master/Full.jpg?raw=true" alt="">
+                                
+                                <ul class="list-inline">
+                                    
+                                    <li>Deliverables</li>  </ul>
+                                    <li>1. Design, make, a (1) parametric (2)  press-fit construction kit which can be (3) assembled in multiple ways</li>
+                                    <li>2. Cut something on the vinylcutter</li>
+                                    <li>3. Group assignment: Make lasercutter test part(s), varying cutting settings and slot dimensions</li> <BR>
+                                
+                                <p class="h4">01. Press-fit construction kit inspired by Valentine week</p>
+                                <p class="h5"> Inspiration</p>
+                                    <p>I went through an extensive brainstorming. Results: many ideas, many attempts. On the positive side I quickly realized when my idea was either not feasible, too complicated or time consuming.
+                                    Then I remembered Valentine day was coming soon, I also remembered my previous break ups, where my heart was shattered, and I decided to created a object representing each past relationship I got dumped, with the size and number of stabs in my heart varying from one relation to the other. Although this does not sound like a very positive project :), It is not as bad as it sounds and is to be seen more as visual parametric representation of past experiences.
+                                    I will try to do the same project with past positive experiences :)</p>
+
+                                <p class="h5"> A pametric design </p>
+                                    <p>In Fusion 360 I made 3 values parametrics (Fusion 360 is not the easiest to use in my opinion but the parametric fonction is easier than rhyno grasshoper)
+                                            - Thickness of the materials (cardboard as default 3.5mm) but can be modified in the parametric sheet to change all openings.
+                                            - Number of stabs the heart is containing (from 2 to as many as 8).
+	                                       - Width of the blade corresponding to the pain suffer.
+	                                       - Improvement for next time: make the size of the heart corresponding to the importance of the relationship parametric as well. </p>
+                                
+                                 <img class="img-fluid d-block mx-auto" src="https://github.com/jean-christophe/JCT/blob/Week3/Week-3-Parametrics.jpg?raw=true" alt="">
+                                
+                                <img class="img-fluid d-block mx-auto" src="https://github.com/jean-christophe/JCT/blob/Week3/Week3-Fusion360-Make3D-and-join.jpg?raw=true" alt="3D parametrics modelling">
+                                <p> Creating the 3D model in Fusion 360</p>
+                                
+                                <img  class="img-fluid d-block mx-auto" src="https://github.com/jean-christophe/JCT/blob/Week3/Week3-ExactFlat-Online.jpg?raw=true" alt="ExactFlat">
+                                <p>ExactFlat Online: This is a separate plug in the 3D to 2D solution for Fusion 360. Unfortunately despite many attemps I never managed to make it work for my design to use it for laser cutting. Instead I saved each sketch as dxf directly in Fusion 360.</p>
+                                
+                                 <img  class="img-fluid d-block mx-auto" src="https://github.com/jean-christophe/JCT/blob/Week3/Week3-Rhyno-trying-to-join-objects.jpg?raw=true">
+                                <p>Rhyno Trial: I attempted to position objects in rhyno as well. Unfortunately I did not manage to complete the task. This shows I need to undertand rhyno more</p>
+                                
+                                
+                                
+	
+                                <p class="h5">Pressfit</p>
+                                <p>I am using the blade and handle of the dagger as pressfit fixations, as well as the heart shape itself.</p>
+      
+
+                                <p class="h5">Final Result</p>
+                                <img  class="img-fluid d-block mx-auto" src="https://github.com/jean-christophe/JCT/blob/Week3/Week3-Final-Laser-Cut-Heart-Shape.jpg?raw=true">
+                                
+                                               <p class="h5">Learnings</p>
+                                <p>Safety is paramount in laser cutting (air ventilation, always supervising the cut, and stopping if flames start to  appear)</p>
+                                <p>Adjusting the laser machine: Speed, Dpi, power were adjusted by the team the day before I used the laser cutting, so I had the details for lazer cutting cardboard. However when I tested the laser cutting on the same cardboard materials before cutting, we found the the cut was not so clean as the day before.The Fablab manager investigated and found out because of the extensive testing the day before, the lenses & mirror of the laser needed cleaning.
+                                    Learning:  rather than increasing power and risks potential fire, best to check the lenses and mirror first if settings are what they should be </p>
+                                
+                                
+                                  
+                                <p class="h4">02. Cut something on the vinyl cutter</p>
+                                <p class="h5"> Inspiration</p>
+                                <p> Combining my French and Vietnamese origins</p>
+                            
+                                <p> I designed in Inskape (which I am starting to like :), a sticker design for my latop.</p>
+                                <img  class="img-fluid d-block mx-auto" src="https://github.com/jean-christophe/JCT/blob/Week3/03-full-Vynil.jpg?raw=true">
+                                </BR>
+                                
+                                <p class="h4">3. Group assignment: Make lasercutter test part(s), varying cutting settings and slot dimensions</p>
+                                
+                                <p>I got the chance to the see the LASER CUT - Multicam 2000 in action which is an incredibly accurate laser cutter despite its large size. The way to operate it is different yet similar, so I took many notes. I also saw the LASER CUT - Epilog Legend we have at FabLab Barcelona in action. As it losts power through time, it is now mainly used for engraving. </p>
+                                <img  class="img-fluid d-block mx-auto" src="https://github.com/jean-christophe/JCT/blob/Week3/Week3-Group-Test.jpg?raw=true">
+                                
+                                <p>Download files</p>.
+                                <a href="https://github.com/jean-christophe/JCT/blob/master/Week3-blade_and_heart_exported_in_DXF_From_Fusion360.dxf" target=" _blank"> DXF from Fusion 360 for hearts and blades </a>
+                                
+                                <a href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gQ3JlYXRlZCB3aXRoIElua3NjYXBlIChodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy8pIC0tPgoKPHN2ZwogICB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iCiAgIHhtbG5zOmNjPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9ucyMiCiAgIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyIKICAgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICB4bWxuczpzb2RpcG9kaT0iaHR0cDovL3NvZGlwb2RpLnNvdXJjZWZvcmdlLm5ldC9EVEQvc29kaXBvZGktMC5kdGQiCiAgIHhtbG5zOmlua3NjYXBlPSJodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy9uYW1lc3BhY2VzL2lua3NjYXBlIgogICB3aWR0aD0iMjEwbW0iCiAgIGhlaWdodD0iMjk3bW0iCiAgIHZpZXdCb3g9IjAgMCA3NDQuMDk0NDg4MTkgMTA1Mi4zNjIyMDQ3IgogICBpZD0ic3ZnMiIKICAgdmVyc2lvbj0iMS4xIgogICBpbmtzY2FwZTp2ZXJzaW9uPSIwLjkxIHIxMzcyNSIKICAgc29kaXBvZGk6ZG9jbmFtZT0iZXVyYXNpYW4gaW5zY2FwZS5zdmciCiAgIGlua3NjYXBlOmV4cG9ydC1maWxlbmFtZT0iL1VzZXJzL2tvbmNoeXRhL0Rlc2t0b3AvRmFiQWNhZGVteTIwMTcvV0lQLzJkL2V1cmFzaWFuaW5zY2FwMmUucG5nIgogICBpbmtzY2FwZTpleHBvcnQteGRwaT0iOTAiCiAgIGlua3NjYXBlOmV4cG9ydC15ZHBpPSI5MCI+CiAgPGRlZnMKICAgICBpZD0iZGVmczQiIC8+CiAgPHNvZGlwb2RpOm5hbWVkdmlldwogICAgIGlkPSJiYXNlIgogICAgIHBhZ2Vjb2xvcj0iI2ZmZmZmZiIKICAgICBib3JkZXJjb2xvcj0iIzY2NjY2NiIKICAgICBib3JkZXJvcGFjaXR5PSIxLjAiCiAgICAgaW5rc2NhcGU6cGFnZW9wYWNpdHk9IjAuMCIKICAgICBpbmtzY2FwZTpwYWdlc2hhZG93PSIyIgogICAgIGlua3NjYXBlOnpvb209IjAuNDUyNTQ4MzQiCiAgICAgaW5rc2NhcGU6Y3g9IjQ0MS44OTE5MSIKICAgICBpbmtzY2FwZTpjeT0iNTYyLjc2MTA4IgogICAgIGlua3NjYXBlOmRvY3VtZW50LXVuaXRzPSJweCIKICAgICBpbmtzY2FwZTpjdXJyZW50LWxheWVyPSJsYXllcjEiCiAgICAgc2hvd2dyaWQ9ImZhbHNlIgogICAgIGlua3NjYXBlOnNuYXAtZ3JpZHM9ImZhbHNlIgogICAgIGlua3NjYXBlOndpbmRvdy13aWR0aD0iMTI4MCIKICAgICBpbmtzY2FwZTp3aW5kb3ctaGVpZ2h0PSI3NTEiCiAgICAgaW5rc2NhcGU6d2luZG93LXg9IjAiCiAgICAgaW5rc2NhcGU6d2luZG93LXk9IjEiCiAgICAgaW5rc2NhcGU6d2luZG93LW1heGltaXplZD0iMSIgLz4KICA8bWV0YWRhdGEKICAgICBpZD0ibWV0YWRhdGE3Ij4KICAgIDxyZGY6UkRGPgogICAgICA8Y2M6V29yawogICAgICAgICByZGY6YWJvdXQ9IiI+CiAgICAgICAgPGRjOmZvcm1hdD5pbWFnZS9zdmcreG1sPC9kYzpmb3JtYXQ+CiAgICAgICAgPGRjOnR5cGUKICAgICAgICAgICByZGY6cmVzb3VyY2U9Imh0dHA6Ly9wdXJsLm9yZy9kYy9kY21pdHlwZS9TdGlsbEltYWdlIiAvPgogICAgICAgIDxkYzp0aXRsZT48L2RjOnRpdGxlPgogICAgICA8L2NjOldvcms+CiAgICA8L3JkZjpSREY+CiAgPC9tZXRhZGF0YT4KICA8ZwogICAgIGlua3NjYXBlOmxhYmVsPSJMYXllciAxIgogICAgIGlua3NjYXBlOmdyb3VwbW9kZT0ibGF5ZXIiCiAgICAgaWQ9ImxheWVyMSI+CiAgICA8cGF0aAogICAgICAgc3R5bGU9Im9wYWNpdHk6MTtmaWxsOiMwMDAwMDA7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOiMwMDAwMDA7c3Ryb2tlLXdpZHRoOjExLjA0ODU0MzkzO3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDo0O3N0cm9rZS1kYXNoYXJyYXk6bm9uZTtzdHJva2Utb3BhY2l0eToxIgogICAgICAgZD0ibSAzOTQuOTIzMjcsMjYuODkyMTI3IGMgLTIuNTQ2MTIsMCAtMjAxLjY3NDkxLDEyMS42NTk1NzMgLTIzMC4wNzgxMywxNDAuNTY4MzYzIC0xNi43MzA2MiwxMS4xMzgwMyAtMjEuNDQ0OTEsMTUuMjgzNzIgLTE4Ljk2MDk0LDE2LjY3MzgyIDMuNTE4MzQsMS45Njg5NiAyMC45NDQyMyw0LjIyNzA0IDQ2LjMyODEzLDYuMzY3MTkgLTEuNDQ1NDcsLTIuMjIwODcgLTIuMzczNzQsLTQuNjI2OTIgLTIuNDI1NzgsLTYuNzI2NTYgLTAuMTIyODgsLTQuOTU3MzIgNS45NjMzNywtMTEuMDIwOTYgMTQuOTg0MzcsLTE0LjkyOTY5IDguOTI1MDQsLTMuODY3MTUgMjUuODE1MTYsLTcuOTA3NjIgMzAuNTYyNSwtNy4zMTA1NSAyLjA1NTE3LDAuMjU4NDcgOC4xODE3MiwzLjE2ODQ5IDEzLjYxNTI0LDYuNDY0ODUgNS40MzM0OCwzLjI5NjM3IDEwLjA3NDMxLDYuMDE2OTIgMTAuMzEyNSw2LjA0Njg3IDAuMjM4MTUsMC4wMyAtMS41ODIwMSwtMi44NTU0NCAtNC4wNDQ5MiwtNi40MTIxMSAtMi40NjI5NCwtMy41NTY2NiAtNC4zNTA1MywtNy4xMDMwMyAtNC4xOTUzMiwtNy44ODA4NiAwLjQzODA3LC0yLjE5NTQxIDQuMzA3MTcsLTIuODcyNiAxNi4wNjgzNiwtMi44MTI1IGwgMTAuODQ1NywwLjA1NDcgMTUuMzIwMzIsNy4zOTY0OSBjIDguNDI2Nyw0LjA2ODIyIDE1LjU2MTQ1LDcuMjUzNDMgMTUuODUzNTEsNy4wNzYxNyAwLjI5MjA2LC0wLjE3NzI4IC0zLjM3ODgsLTMuNjA2NzUgLTguMTU2MjUsLTcuNjE5MTQgLTQuNzc3NDIsLTQuMDEyNDIgLTguNjUwNjksLTcuNTY2NzEgLTguNjA3NDIsLTcuODk4NDQgMC4xNjExNSwtMS4yMzYxNyAzMC45NjQ2NywtMi42MTkyMSAzNC44ODg2NywtMS41NjY0MSAyLjE5Njc5LDAuNTg5NCA5LjcxOTAzLDQuMjExMTIgMTYuNzE0ODUsOC4wNDY4OCA2Ljk5NTgsMy44MzU3OCAxMy4wODE3MSw3LjAxODY3IDEzLjUyMzQzLDcuMDc0MjIgMi4wODc0NSwwLjI2MjUzIC0yLjQ4NDA0LC00LjAxMDA0IC05LjM1MzUxLC04Ljc0NDE0IC03LjUxMzYzLC01LjE3ODAyIC04LjU1ODA5LC02LjQ4OTM3IC01LjkxMjExLC03LjQyMzgzIDEuNjg1OTcsLTAuNTk1NDIgMjguOTA1NDksLTEuMTAzMjQgMzIuODc2OTUsLTAuNjEzMjggMS42MDMzMiwwLjE5Njg0IDkuODI3MDcsNC4xMzE0OSAxOC4yNzM0NCw4Ljc0MjE5IDguNDQ2MzgsNC42MTA3MSAxNS42NzIwNiw4LjE5MTU5IDE2LjA1ODU5LDcuOTU3MDMgMS4yNDk0LC0wLjc1ODMyIC04Ljk5NzIzLC0xMC4yNjI4NSAtMTMuMDUwNzgsLTEyLjEwNTQ3IC0yLjQ4NDEzLC0xLjEyOTIgLTMuNzk2MTMsLTIuNDY5NzggLTMuNTYyNSwtMy42NDA2MyAwLjIwMzM1LC0xLjAxOTExIDAuNTc0MDUsLTEuODI2MTQgMC44MjIyNywtMS43OTQ5MiAwLjI0ODIyLDAuMDMxMiA4Ljg0NjA0LDAuMTYxNzkgMTkuMTA3NDIsMC4yOTEwMiAyNi44NTA0LDAuMzM4MDkgMjUuNzE4NjcsMC4wNTg1IDM5LjY4NTU1LDkuNzgzMiA2LjY1MjkzLDQuNjMyMjEgMTIuNDIxNDMsOC4yMjUyOCAxMi44MTgzNiw3Ljk4NDM3IDAuMzk2OTgsLTAuMjQwOTMgLTIuNDAzOTYsLTQuMTczNTIgLTYuMjI0NjEsLTguNzQwMjMgbCAtNi45NDcyNywtOC4zMDI3MyA0LjgzNzg5LDAuNTkzNzUgYyAyLjY2MTE0LDAuMzI2MTkgMTQuMjcxMjgsMS4zMTU4MiAyNS44MDA3OCwyLjE5OTIxIDIzLjUxNzI1LDEuODAxOSAyNC43NTg4OCwyLjE2OTM4IDMzLjExMzI4LDkuODE4MzYgNS4yMjA3NCw0Ljc3OTkgNi43MDg1LDQuNTUxMzQgNC42NTIzNSwtMC43MTY3OSAtMC43MTkzMywtMS44NDI5OSAtMS4yMTA0NCwtMy44MzkwMiAtMS4wOTE4LC00LjQzMzYgMC4yODUxNywtMS40MjkxMSAzMS4wNDM3MSwyLjQzNTE3IDQ2LjY4NTU1LDUuODY1MjQgNi40ODAwNCwxLjQyMTAxIDE0LjYwMTI5LDMuNjUzNjYgMTguMDQ2ODcsNC45NjA5MyA1LjQwOTM3LDIuMDUyMzYgNi40MTc1MywyLjkxNjQ3IDcuMzg2NzIsNi4zMzIwNCAxLjQ2NDY0LDUuMTYxNDcgLTAuNTY5NzYsOS42NjU2OCAtNS43MTg3NSwxMi42NTQyOSAtMC4wNzM1LDAuMDQyNiAtMC4xNDc0MywwLjA3OTkgLTAuMjIwNywwLjEyMTEgMjMuMDY2MjIsLTIuMDk1IDM5Ljc5NTUyLC00LjQ1ODAzIDQzLjA0Mjk3LC02LjI3NTM5IDMuMTA4ODksLTEuNzM5ODMgLTE0LjM4NDkxLC0xNC43MDU4MyAtNjgsLTUwLjQwMjM1IEMgNTAzLjgyOTQ3LDk1LjgxODAyOCAzOTYuODI4OSwyNi44OTIxMjcgMzk0LjkyMzI3LDI2Ljg5MjEyNyBaIgogICAgICAgaWQ9InBhdGgzNDIxIgogICAgICAgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIKICAgICAgIHNvZGlwb2RpOm5vZGV0eXBlcz0ic3NzY3Nzc3Njc3NjY3Njc2Nzc3Nzc2NzY3NzY3NzY2NjY3Nzc3Nzc3NjY3NzcyIgLz4KICAgIDxwYXRoCiAgICAgICBzdHlsZT0iZmlsbDojMDAwMDAwIgogICAgICAgZD0ibSAxNzUuMTQ5MSwyNTAuMDY3NjYgLTIuMzU3NDIsMC4wMDYgLTAuMjY3NTgsMi4yODMyIGMgLTAuMjgwMjUsMi4zOTk2IC0wLjM1NDQ2LDkuMzc4MDcgLTAuMTE3MTksMTAuOTkyMTkgMC4wNjcxLDAuNDU2MjggMC4xMjY4MSwwLjY3ODczIDAuMTMyODEsMC40OTQxNCAwLjAwNiwtMC4xODQ1NSAwLjA4NjksLTAuMjA2OTUgMC4xNzk2OSwtMC4wNTA4IDAuMTE3NywwLjE5NzggMC4xMDcxNSwwLjM5MjAxIC0wLjAzNzEsMC42NDA2MiAtMC4xNDgzNiwwLjI1NTY5IC0wLjEwMjg5LDAuMzU5MjggMC4xNjQwNiwwLjM2MzI4IDAuMzMyMzQsMC4wMDYgMC4zNDQ4OCwwLjA2MDYgMC4xMTcxOSwwLjUyMzQ0IC0wLjE0MTExLDAuMjg2ODggLTAuMDIxMSw0LjUzNzUgMC4wODU5LDYuNjA5MzggbCAtMC40NDUzMSwwLjAxNzYgLTAuMTc5NjksMS44MjYxOCBjIC0wLjIyNTI5LDIuMjk0MDYgLTAuMjI3OSwzLjQ3MjY1IC0wLjAwOCwzLjQ3MjY1IDAuMTIxMDYsMCAwLjEyMzA4LDAuMTU0IDAuMDEsMC41MjUzOSAtMC4wODgyLDAuMjg5MTkgLTAuMTYwMTEsMS44Mzg0OSAtMC4xNjIxMSwzLjQ0MzM2IC0wLjAxNDEsMTMuNzQxMjMgMzQuOTU3NDQsMC4zNDY1NCA2NC45NTMxMywwLjM5ODQ0IDkuMDAyOTgsLTAuMjMxNjkgMTkuOTM0MDgsLTAuNjQ1MTYgMjIuNDE5OTIsLTAuODQ3NjYgNi45OTc5OCwtMC41MjEwMyAxMi40NjkyOSwtMC4yNjQzNSAxOS4wMjE0OCwtMC44Mzc4OSAwLjE0MzAxLC0wLjEyMDU1IDUuMzI3NSwtMC4yMTU4NiA3LjEzNDc3LC0wLjEzMDg2IDIyLjM0NDUzLC0xLjk2MzgyIDI5LjMyMDIsMy4zODA0NSA2MS4zODY3MiwtMi45OTIxOCA1LjEyNzg3LC0wLjczMjkyIDYuMDUyNTYsLTAuOTYwNjIgNi4yMTQ4NCwtMS41MzMyMSAwLjI0NDc0LC0wLjg2MzY2IDAuMjQwMzgsLTEuMTUxNzcgLTAuMDMxMiwtMS44OTA2MiAtMC4yNjM5OCwtMC43MTgwMSAtMi40NTI0MiwtMC45MjU0NCAtMTcuOTI3NzMsLTEuNzA1MDggLTcuNjc1LC0wLjM4NzA0IC0yOC4wNzAxOSwtMC40ODEwNiAtODAuMTQ2NDksLTAuMzY5MTQgLTEwLjI4NjU5LDAuMDIyMSAtMTguMjQxMDUsMC4wNjI2IC0yNy40Mjc3MywwLjA5NTcgOC40MjM0NiwtMC45OTcyOCAxNi44ODU2MSwtMi4wOTA4MiAyNS4yNzE0OCwtMi41MjUzOSA4Ljc5NTg1LC0wLjQ1NTgxIDIwLjA1ODgzLC0yLjA1MTA5IDI4LjU0NzA4LC0wLjE3NTA2IDguNTU2MDksMC4yNDM3NyAxNS4wODE3MiwtMC4xNzE3OCAyMC42NTk5NSwtMC4xNjQ3OCAxMS4yMzQ4MywwLjAxMzUgNDEuNTkxOTUsLTAuNzM3NSA0Ny40MzE2NSwtMS4xNzM4MyBsIDMuNzM4MjgsLTAuMjc5MyAwLjA0NjksLTEuMzUxNTYgYyAwLjAyOTksLTAuODQzMSAtMC4wMjczLC0xLjQyMDExIC0wLjE1MjM0LC0xLjUzNTE2IC0wLjExMDIxLC0wLjEwMTM4IC0zLjIxOTI5LC0wLjU3MjAxIC02LjkxMDE2LC0xLjA0Njg3IC02LjE0MjMsLTAuNzkwMjQgLTE2LjE5OTY3LC0yLjE2MjQyIC0xOS43NTE5NSwtMi42OTMzNiAtMTAuNjMyMzksLTEuNTg5MiAtMTEuMDcxNjMsLTEuNjI3ODIgLTQ0LjUzMzIsLTMuOTUzMTIgLTMuNDgxMTUsLTAuMjQxOSAtMTIuNTc1NjEsLTAuODkyMzIgLTIwLjIwODk5LC0xLjQ0NTMyIC03LjYzMzM3LC0wLjU1MyAtMTYuMDQxMjcsLTEuMTA4MDggLTE4LjY4MzU5LC0xLjIzNDM3IC0yLjY0MjMzLC0wLjEyNjI2IC02LjEwNzM5LC0wLjMyMDgzIC03LjcwMTE3LC0wLjQzMTY0IC0xLjU5Mzc4LC0wLjExMDg4IC00Ljk1NjE2LC0wLjI5OTA1IC03LjQ3MjY2LC0wLjQxNzk3IC0yLjUxNjQ5LC0wLjExODkgLTUuNDY4MTEsLTAuMzA1MjggLTYuNTU4NTksLTAuNDE0MDYgLTEuMDkwNDgsLTAuMTA4ODQgLTUuMzEyNTMsLTAuMzgzMjEgLTkuMzgwODYsLTAuNjA5MzggLTQuMDY4MzQsLTAuMjI2MTYgLTguNjMwNzMsLTAuNTAzMDYgLTEwLjE0MDYzLC0wLjYxNzE5IC0xLjUwOTksLTAuMTE0MTcgLTcuNTE1ODIsLTAuNDA2NjcgLTEzLjM0NTcsLTAuNjQ4NDMgLTUuODI5ODksLTAuMjQxNzcgLTEwLjczNjUzLC0wLjQ4MTgxIC0xMC45MDQzLC0wLjUzMzIxIGwgMCwwLjAwMiBjIC0wLjE2Nzc2LC0wLjA1MTMgLTEuMzY3MTYsLTAuMDg5OSAtMi42NjQwNiwtMC4wODU5IHoiCiAgICAgICBpZD0icGF0aDM1MDgiCiAgICAgICBpbmtzY2FwZTpjb25uZWN0b3ItY3VydmF0dXJlPSIwIgogICAgICAgc29kaXBvZGk6bm9kZXR5cGVzPSJjY2NzY2NjY3NjY2NzY2NjY2NjY2NjY3Njc2Njc2NjY3Nzc3NjY3Njc2NzY2NjIiAvPgogICAgPHBhdGgKICAgICAgIHNvZGlwb2RpOnR5cGU9InN0YXIiCiAgICAgICBzdHlsZT0ib3BhY2l0eToxO2ZpbGw6bm9uZTtmaWxsLW9wYWNpdHk6MTtzdHJva2U6IzBjMDAwMDtzdHJva2Utd2lkdGg6NTtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7c3Ryb2tlLW1pdGVybGltaXQ6NDtzdHJva2UtZGFzaGFycmF5Om5vbmU7c3Ryb2tlLW9wYWNpdHk6MCIKICAgICAgIGlkPSJwYXRoNDMyOSIKICAgICAgIHNvZGlwb2RpOnNpZGVzPSI1IgogICAgICAgc29kaXBvZGk6Y3g9IjIwNy4wMzEyNSIKICAgICAgIHNvZGlwb2RpOmN5PSIzMTMuNjkwMzQiCiAgICAgICBzb2RpcG9kaTpyMT0iMjYuNTIyMjU5IgogICAgICAgc29kaXBvZGk6cjI9IjEzLjI2MTEyOSIKICAgICAgIHNvZGlwb2RpOmFyZzE9IjAuODA2MjI4NDgiCiAgICAgICBzb2RpcG9kaTphcmcyPSIxLjQzNDU0NyIKICAgICAgIGlua3NjYXBlOmZsYXRzaWRlZD0iZmFsc2UiCiAgICAgICBpbmtzY2FwZTpyb3VuZGVkPSIwIgogICAgICAgaW5rc2NhcGU6cmFuZG9taXplZD0iMCIKICAgICAgIGQ9Im0gMjI1LjM5MDYzLDMzMi44MzA5NiAtMTYuNTU4MTUsLTYuMDAyMzkgLTE0LjMzMTY5LDEwLjIzNzM1IDAuNTkxODcsLTE3LjYwMjU3IC0xNC4xNjUwMywtMTAuNDY2NzMgMTYuOTIzOTMsLTQuODc2NTkgNS41NzcyMiwtMTYuNzA2MTUgOS44Njc3LDE0LjU4ODY3IDE3LjYxMTk1LDAuMTQxNzYgLTEwLjgyNTM3LDEzLjg5Mjg5IHoiCiAgICAgICBpbmtzY2FwZTp0cmFuc2Zvcm0tY2VudGVyLXg9IjEuMTEzMjI0MiIKICAgICAgIGlua3NjYXBlOnRyYW5zZm9ybS1jZW50ZXIteT0iLTEuNDUwNDM5NiIgLz4KICAgIDxwYXRoCiAgICAgICBzb2RpcG9kaTp0eXBlPSJzdGFyIgogICAgICAgc3R5bGU9Im9wYWNpdHk6MTtmaWxsOm5vbmU7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOiMwYzAwMDA7c3Ryb2tlLXdpZHRoOjU7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjQ7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS1vcGFjaXR5OjAiCiAgICAgICBpZD0icGF0aDQzMzEiCiAgICAgICBzb2RpcG9kaTpzaWRlcz0iNSIKICAgICAgIHNvZGlwb2RpOmN4PSIyMzguNjcxODciCiAgICAgICBzb2RpcG9kaTpjeT0iMzI1LjQwOTA5IgogICAgICAgc29kaXBvZGk6cjE9IjUxLjQ1ODgyIgogICAgICAgc29kaXBvZGk6cjI9IjI1LjcyOTQxIgogICAgICAgc29kaXBvZGk6YXJnMT0iMC4yNjg5MTUxNiIKICAgICAgIHNvZGlwb2RpOmFyZzI9IjAuODk3MjMzNjkiCiAgICAgICBpbmtzY2FwZTpmbGF0c2lkZWQ9ImZhbHNlIgogICAgICAgaW5rc2NhcGU6cm91bmRlZD0iMCIKICAgICAgIGlua3NjYXBlOnJhbmRvbWl6ZWQ9IjAiCiAgICAgICBkPSJtIDI4OC4yODEyNSwzMzkuMDgwOTYgLTMzLjU2MDAyLDYuNDM4MzUgLTEzLjcyMTk0LDMxLjI5NTk0IC0xNi40OTM4NSwtMjkuOTI3OTIgLTM0LjAwNDUyLC0zLjM3OTM2IDIzLjM2NjI3LC0yNC45MzQ4MiAtNy4yOTQwMiwtMzMuMzg0NSAzMC45MzUsMTQuNTE3MzYgMjkuNDk2NTcsLTE3LjI1MzQgLTQuMjQ3MzksMzMuOTA3MDQgeiIKICAgICAgIGlua3NjYXBlOnRyYW5zZm9ybS1jZW50ZXIteD0iLTAuNzE5MjEwNTMiCiAgICAgICBpbmtzY2FwZTp0cmFuc2Zvcm0tY2VudGVyLXk9IjQuMjI0ODQxNyIgLz4KICAgIDxlbGxpcHNlCiAgICAgICBzdHlsZT0ib3BhY2l0eToxO2ZpbGw6bm9uZTtmaWxsLW9wYWNpdHk6MTtzdHJva2U6IzBjMDAwMDtzdHJva2Utd2lkdGg6NTtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7c3Ryb2tlLW1pdGVybGltaXQ6NDtzdHJva2UtZGFzaGFycmF5Om5vbmU7c3Ryb2tlLW9wYWNpdHk6MCIKICAgICAgIGlkPSJwYXRoNDMzNyIKICAgICAgIGN4PSIzODkuODQzNzUiCiAgICAgICBjeT0iMzIxLjg5MzQ2IgogICAgICAgcng9IjEzLjI4MTI1IgogICAgICAgcnk9IjcuMDMxMjUiIC8+CiAgICA8cGF0aAogICAgICAgc3R5bGU9ImZpbGw6IzAwMDAwMCIKICAgICAgIGQ9Im0gMzU2LjY3Njk0LDM3My45MDA1MiBjIC0xOC4wODMzMSwtMi4xMDU1OCAtMjMuMDM5NjQsLTUuNzYyMTIgLTEyLjcwMTc1LC05LjM3MDczIGwgMS45NTQwOSwtMC42ODIxMSAtMy41OTcyOSwtMi4wNTY5NiBjIC05LjA0NzI3LC01LjE3MzMxIC0xNS45MzAxNCwtMTEuNzEzMTUgLTIwLjY1NzEyLC0xOS42Mjc1NyAtMy40NzA3OCwtNS44MTExNyAtNi42NTc5NiwtMTUuMTY1MjggLTcuMTQ4OTQsLTIwLjk4MTU1IGwgLTAuMzc3MDcsLTQuNDY2OTMgYyAzNy42MjU4MSwtMS40Njg4NyA3MS40NjYyNywtMC4yNTM4MSAxMDguNDgxMjgsMC4xOTg0OCBsIC0wLjQwMzM1LDMuODMyNTcgYyAtMS40MTAxOCwxMy4zOTkyOSAtOC43Njg2NywyNi44MTI1NSAtMTkuMzkzMSwzNS4zNTAyIC0yLjIzMjY2LDEuNzk0MTQgLTUuODA5NDEsNC4xODg0MiAtNy45NDgzNCw1LjMyMDY0IGwgLTMuODg4OTUsMi4wNTg1OCAzLjcwMTk2LDEuMTM3NTQgYyA2LjA3Mjg4LDEuODY2MDkgNy4xNTE2NSwzLjU5NTM3IDMuNTg2MjUsNS43NDg3NSAtMy42NDQ2LDIuMjAxMiAtMTIuMjg1OTMsMy4zODQ3OSAtMjYuMzAwNDQsMy42MDIzMiAtNy4xNjUwOSwwLjExMTIxIC0xNC4wNTMzNCwwLjA4MjcgLTE1LjMwNzIzLC0wLjA2MzMgeiIKICAgICAgIGlkPSJwYXRoNDQ3MSIKICAgICAgIGlua3NjYXBlOmNvbm5lY3Rvci1jdXJ2YXR1cmU9IjAiCiAgICAgICBzb2RpcG9kaTpub2RldHlwZXM9ImNzY3Nzc2Njc3NzY3Nzc2NjIiAvPgogICAgPHBhdGgKICAgICAgIHN0eWxlPSJvcGFjaXR5OjE7ZmlsbDojMDAwMDAwO2ZpbGwtb3BhY2l0eToxO3N0cm9rZTojMGMwMDAwO3N0cm9rZS13aWR0aDoxMy43NjIxMTY0MztzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7c3Ryb2tlLW1pdGVybGltaXQ6NDtzdHJva2UtZGFzaGFycmF5Om5vbmU7c3Ryb2tlLW9wYWNpdHk6MCIKICAgICAgIGQ9Im0gNDcwLjY3MTA3LDMzMC40MTg5MiBjIC0xOC4wOTk1MiwtNDUuNzUwNTkgLTIuNTgyNDgsLTEwNS4yMjE2IDMzLjA5NzcxLC0xMjYuODUwOTkgMTMuNDA5NjksLTguMTI4OTYgMzYuMjg3NjYsLTguMTQyNzIgNDkuNTM1NzMsLTAuMDI5OCAzMC41NTc4NywxOC43MTMyIDQ3LjYwNDU5LDY3LjYyNjc0IDM3Ljk4MzQ0LDEwOC45ODg5NyAtNS4wMDM5NiwyMS41MTIzOCAtNS42MTc5NSwyMS45MzQzNCAtMjIuMjYwMiwxNS4yOTc2IC0yMC41NTc5NSwtOC4xOTgyOCAtNTAuNTA4NTcsLTkuNDMzMzQgLTcwLjg4OTA5LC0yLjkyMzIxIC04Ljc3ODY3LDIuODA0MTYgLTE4LjIzNTYsNS45ODc4OSAtMjEuMDE1MzksNy4wNzQ5NiAtMy4yNDg2MywxLjI3MDQzIC01LjU1MzUyLDAuNzE0MDQgLTYuNDUyMiwtMS41NTc1MyB6IG0gMTExLjk4NjcyLC0xOS4yMjg5NSBjIDYuMDk4NzksLTI1LjYzNTkzIC0wLjEyMzUyLC02MS4yOTY3MiAtMTQuMzM0MDgsLTgyLjE1MDA4IC0xOC41MDc1NSwtMjcuMTU5MDQgLTQ5LjkxNDc2LC0zMS41NDM4MSAtNzIuMTkzODksLTEwLjA3OTAyIC05LjAxMTI0LDguNjgxODUgLTIwLjQxODE3LDMyLjUzMzE5IC0yMi44Nzk5Miw0Ny44NDA3NSBsIC0yLjA5MjQ0LDEzLjAxMTA5IDEwLjY4OTUzLC04LjQ0MjY5IGMgNy45NzY1MiwtNi4yOTk5NCAxMy40NDYxOCwtOC40NDI2OSAyMS41NTEwMiwtOC40NDI2OSAxMi44OTcxNCwwIDI1LjkwNzA1LDYuOTQ1NDEgMjEuMTAzNjQsMTEuMjY2MjcgLTQuOTk1ODMsNC40OTM5NSAtMy43MTcsOS4zNDIwOSA0LjM4NzIyLDE2LjYzMjE4IDYuNDUyODgsNS44MDQ2MyA3LjA3NzQ4LDcuNjc4MDQgNC4zNTMwNiwxMy4wNTY3NCAtNC4zMTkxNSw4LjUyNzI1IC00LjI3MTEsOC42MTU4OCA0Ljc5OTg1LDguODU0NjcgNC4zODkzNCwwLjExNTU0IDEzLjg1NzI4LDEuNzM2MjcgMjEuMDM5ODUsMy42MDE2MSAxNy45MDkxOCw0LjY1MTA1IDIxLjQyNzU5LDMuODgyNjYgMjMuNTc2MTYsLTUuMTQ4ODMgeiBtIC04Ny40MjExOCwtMTAuMjA3NzIgYyAwLC02LjkwODE5IC01LjE0MjM1LC0xMS45NDk3OCAtMTIuMTg4NTgsLTExLjk0OTc4IC03LjIzMjg0LDAgLTcuMzc3NjMsMTYuOTI5ODYgLTAuMTc1NzgsMjAuNTU1MzIgNi40NDA4NCwzLjI0MjQgMTIuMzY0MzYsLTAuODgwMzMgMTIuMzY0MzYsLTguNjA1NTQgeiIKICAgICAgIGlkPSJwYXRoNDk1NiIKICAgICAgIGlua3NjYXBlOmNvbm5lY3Rvci1jdXJ2YXR1cmU9IjAiIC8+CiAgICA8Zmxvd1Jvb3QKICAgICAgIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgICAgICBpZD0iZmxvd1Jvb3Q0OTU4IgogICAgICAgc3R5bGU9ImZpbGw6YmxhY2s7c3Ryb2tlOm5vbmU7c3Ryb2tlLW9wYWNpdHk6MTtzdHJva2Utd2lkdGg6MXB4O3N0cm9rZS1saW5lam9pbjptaXRlcjtzdHJva2UtbGluZWNhcDpidXR0O2ZpbGwtb3BhY2l0eToxO2ZvbnQtZmFtaWx5OnNhbnMtc2VyaWY7Zm9udC1zdHlsZTpub3JtYWw7Zm9udC13ZWlnaHQ6bm9ybWFsO2ZvbnQtc2l6ZTo0MHB4O2xpbmUtaGVpZ2h0OjEyNSU7bGV0dGVyLXNwYWNpbmc6MHB4O3dvcmQtc3BhY2luZzowcHgiPjxmbG93UmVnaW9uCiAgICAgICAgIGlkPSJmbG93UmVnaW9uNDk2MCI+PHJlY3QKICAgICAgICAgICBpZD0icmVjdDQ5NjIiCiAgICAgICAgICAgd2lkdGg9IjU3NS4xOTE4OSIKICAgICAgICAgICBoZWlnaHQ9IjE5Ni4wODgxNSIKICAgICAgICAgICB4PSIxMDI5LjQ2MjgiCiAgICAgICAgICAgeT0iMzE3LjAzMTY1IiAvPjwvZmxvd1JlZ2lvbj48Zmxvd1BhcmEKICAgICAgICAgaWQ9ImZsb3dQYXJhNDk2NCIgLz48L2Zsb3dSb290PiAgICA8cGF0aAogICAgICAgc3R5bGU9ImZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6Ym9sZDtmb250LXN0cmV0Y2g6bm9ybWFsO2ZvbnQtc2l6ZTo0MHB4O2xpbmUtaGVpZ2h0OjEyNSU7Zm9udC1mYW1pbHk6J1NocmVlIERldmFuYWdhcmkgNzE0JzstaW5rc2NhcGUtZm9udC1zcGVjaWZpY2F0aW9uOidTaHJlZSBEZXZhbmFnYXJpIDcxNCwgQm9sZCc7dGV4dC1hbGlnbjpzdGFydDtsZXR0ZXItc3BhY2luZzowcHg7d29yZC1zcGFjaW5nOjBweDt3cml0aW5nLW1vZGU6bHItdGI7dGV4dC1hbmNob3I6c3RhcnQ7ZmlsbDojMDAwMDAwO2ZpbGwtb3BhY2l0eToxO3N0cm9rZTpub25lO3N0cm9rZS13aWR0aDoxcHg7c3Ryb2tlLWxpbmVjYXA6YnV0dDtzdHJva2UtbGluZWpvaW46bWl0ZXI7c3Ryb2tlLW9wYWNpdHk6MSIKICAgICAgIGQ9Im0gNjQ2Ljk2LDQwMi4zODU2MyAtMTIxLjQ2MDk0LDAuMDEzNyAtMTIxLjQ2MDk0LDAuMDE1NiAtMTIxLjQ2Mjg5LDAuMDE1NiAtMTIxLjQ2MDk0LDAuMDEzNyBjIDAsMCAzMC4xMDM0OSwxMTAuMDgxNzQgODQuMDY2NDEsMTI4LjI2NTYyIDU3LjEzNzg4LDE5LjI1MzczIDIyNy4zMzIwMiw5LjA1MDc4IDIyOS4yNSw5LjA1MDc4IDEuMjgxMzIsMCAtMjMuNzU0OTcsLTU3LjY3OTQ4IDI5LjQ2Mjg5LC04NS4zMTQ0NSA1My4yMTc4NiwtMjcuNjM0OTggMTI1LjMxMzY3LC0xNy40MTI0MyAxMzkuNjA3NDIsLTIyLjIyODUyIDE2LjgzOTE2LC01LjY3MzczIDMuNDU4OTksLTI5LjgzMjAyIDMuNDU4OTksLTI5LjgzMjAzIHogbSAtMjg2LjgyODEzLDI5LjQzNTU1IDMuODk4NDQsMCAwLDQuNDY0ODQgLTMuODk4NDQsMCAwLC00LjQ2NDg0IHogbSAtMTQuNzkyOTcsOC44NjUyMyBjIDIuOTA0MjYsMCA1LjIxNTkzLDAuOTA2NiA2LjkzNTU1LDIuNzE4NzUgMS43NTc4NCwxLjc2OTAxIDIuNjM2NzIsNC4xNDIwMiAyLjYzNjcyLDcuMTE5MTUgbCAtMy44OTY0OCwwIGMgMCwtMS43NjkwMiAtMC41MTcwNiwtMy4xOTI4MiAtMS41NDg4MywtNC4yNzE0OSAtMS4wMzE3OCwtMS4wNzg2NiAtMi40MDczNCwtMS42MTcxOSAtNC4xMjY5NiwtMS42MTcxOSAtMS40NTIxMiwwIC0yLjYxNzE2LDAuMzY2MTIgLTMuNDk2MDksMS4wOTk2MSAtMC44Nzg5MSwwLjc3NjY0IC0xLjMxODM2LDEuNzg5NzcgLTEuMzE4MzYsMy4wNDEwMiAwLDEuNTEwMTMgMC43MDcxNywyLjY1NTAxIDIuMTIxMSwzLjQzMTY0IDEuMDY5OTksMC42NDcyIDIuNTYsMS4wNTU5MyA0LjQ3MDcsMS4yMjg1MSAyLjM2OTI2LDAuMjE1NzQgNC4zOTQ3NiwxLjEyMjMzIDYuMDc2MTcsMi43MTg3NSAxLjc1Nzg0LDEuNjgyNzIgMi42MzY3MiwzLjczMjI0IDIuNjM2NzIsNi4xNDg0NCAwLDIuNjc1MSAtMC44Nzg4OCw0LjgxMTc5IC0yLjYzNjcyLDYuNDA4MjEgLTEuNzU3ODQsMS41OTY0IC00LjA4OTg4LDIuMzk0NTMgLTYuOTk0MTQsMi4zOTQ1MyAtMy4xNzE3NSwwIC01LjY5MzkxLC0wLjk3MjQ3IC03LjU2NjQxLC0yLjkxNDA3IC0xLjkxMDY5LC0xLjk4NDc0IC0yLjg2NTIzLC00LjU5NDA4IC0yLjg2NTIzLC03LjgzMDA3IGwgMy44OTg0NCwwIGMgMCwyLjA3MTAzIDAuNTUzOSwzLjczMTE2IDEuNjYyMTEsNC45ODI0MiAxLjEwODIsMS4yNTEyNCAyLjU3OTc5LDEuODc2OTUgNC40MTQwNiwxLjg3Njk1IDEuODcyNDgsMCAzLjM2MjUsLTAuMzg3NDMgNC40NzA3LC0xLjE2NDA2IDEuMTA4MiwtMC43NzY2NCAxLjY2MjExLC0xLjc4OTc3IDEuNjYyMTEsLTMuMDQxMDIgMCwtMS43MjU4NiAtMC43ODI4NCwtMy4wODU3NSAtMi4zNDk2MSwtNC4wNzgxMiAtMS4yOTkyNywtMC44MTk3OCAtMi45ODEzNywtMS4zMzcwMSAtNS4wNDQ5MiwtMS41NTI3NCAtMi4xNzgxOSwtMC4yMTU3NCAtNC4wMTE2MSwtMS4xMjIzMyAtNS41MDE5NSwtMi43MTg3NSAtMS41NjY3OCwtMS42Mzk1NyAtMi4zNTE1NywtMy42MDM4NiAtMi4zNTE1NywtNS44OTA2MiAwLC0yLjQ1OTM2IDAuODAzMjIsLTQuNDIxNjkgMi40MDgyMSwtNS44ODg2NyAxLjU2Njc3LC0xLjQ2Njk4IDMuNjY3OTIsLTIuMjAxMTggNi4zMDQ2OCwtMi4yMDExOCB6IG0gLTIzLjIyODUxLDAuNTE5NTQgYyAyLjQ0NTY5LDAgNC41NjcyMiwwLjc1MzU0IDYuMzYzMjgsMi4yNjM2NyAxLjg3MjQ4LDEuNTk2NDIgMi44MDg1OSwzLjYyNDY0IDIuODA4NTksNi4wODM5OCBsIDAsMTQuNzU1ODYgYyAwLDAuODE5NzggMC4yNjc3NCwxLjUxMTM2IDAuODAyNzQsMi4wNzIyNyAwLjQ5Njc4LDAuNTYwOSAxLjEwNzkzLDAuODM5ODQgMS44MzM5OCwwLjgzOTg0IGwgMCwzLjk0OTIyIC0xLjU0Njg3LDAgYyAtMS4wMzE3OCwwIC0xLjk2NzksLTAuMzAyMiAtMi44MDg2LC0wLjkwNjI1IC0wLjg0MDcsLTAuNjQ3MjEgLTEuNDMzNDEsLTEuNDg5ODggLTEuNzc3MzQsLTIuNTI1MzkgLTAuODAyNDksMS4zMzc1NCAtMS45MzA2OSwyLjMzMTMyIC0zLjM4MjgxLDIuOTc4NTEgLTEuMzM3NDksMC42MDQwNiAtMi44MDcxMywwLjkwNjI1IC00LjQxMjExLDAuOTA2MjUgLTIuNjM2NzYsMCAtNC43Mzk4NywtMC43NTU0OSAtNi4zMDY2NCwtMi4yNjU2MiAtMS42MDQ5OCwtMS41MTAxMyAtMi40MDYyNSwtMy41MzgzNSAtMi40MDYyNSwtNi4wODM5OCAwLC0yLjUwMjUgMS4wMTE3NywtNC41NzMzMiAzLjAzNzExLC02LjIxMjkgMS44MzQyNiwtMS40NjY5OCA0LjA4ODcsLTIuMzI5MDEgNi43NjM2NywtMi41ODc4OSAxLjg3MjQ4LC0wLjE3MjU5IDMuMjg2ODQsLTAuNDk4MDUgNC4yNDIxOSwtMC45NzI2NSAxLjMzNzQ4LC0wLjYwNDA1IDIuMDA1ODYsLTEuNTk1ODkgMi4wMDU4NiwtMi45NzY1NiAwLC0xLjUxMDE0IC0wLjUxNTEsLTIuNzgyODQgLTEuNTQ2ODgsLTMuODE4MzYgLTEuMDMxNzcsLTEuMDM1NTIgLTIuMjU2LC0xLjU1Mjc0IC0zLjY2OTkyLC0xLjU1Mjc0IC0xLjQ5MDM0LDAgLTIuNzg4MjksMC40OTU5MSAtMy44OTY0OSwxLjQ4ODI4IC0xLjE0NjQyLDEuMDM1NTIgLTEuNzIwNywyLjMyOTUzIC0xLjcyMDcsMy44ODI4MiBsIDAsMC45NzA3IC0zLjk1NTA4LDAgMCwtMS45NDE0MSBjIDAsLTIuNTAyNDkgMC45OTMzNSwtNC41NTIwMSAyLjk4MDQ3LC02LjE0ODQ0IDEuODM0MjgsLTEuNDY2OTggNC4wMzE0NywtMi4xOTkyMSA2LjU5MTgsLTIuMTk5MjEgeiBtIDU2Ljk1ODk4LDAgYyAyLjQ0NTY5LDAgNC41NjcyMiwwLjc1MzU0IDYuMzYzMjgsMi4yNjM2NyAxLjg3MjQ4LDEuNTk2NDIgMi44MDg2LDMuNjI0NjQgMi44MDg2LDYuMDgzOTggbCAwLDE0Ljc1NTg2IGMgMCwwLjgxOTc4IDAuMjY3NzQsMS41MTEzNiAwLjgwMjczLDIuMDcyMjcgMC40OTY3OCwwLjU2MDkgMS4xMDc5MywwLjgzOTg0IDEuODMzOTksMC44Mzk4NCBsIDAsMy45NDkyMiAtMS41NDg4MywwIGMgLTEuMDMxNzgsMCAtMS45Njc4OSwtMC4zMDIyIC0yLjgwODU5LC0wLjkwNjI1IC0wLjg0MDcyLC0wLjY0NzIxIC0xLjQzMzQyLC0xLjQ4OTg4IC0xLjc3NzM1LC0yLjUyNTM5IC0wLjgwMjQ5LDEuMzM3NTQgLTEuOTI4NzMsMi4zMzEzMiAtMy4zODA4NiwyLjk3ODUxIC0xLjMzNzQ4LDAuNjA0MDYgLTIuODA5MDcsMC45MDYyNSAtNC40MTQwNiwwLjkwNjI1IC0yLjYzNjc2LDAgLTQuNzM3OTEsLTAuNzU1NDkgLTYuMzA0NjksLTIuMjY1NjIgLTEuNjA0OTgsLTEuNTEwMTMgLTIuNDA4MiwtMy41MzgzNSAtMi40MDgyLC02LjA4Mzk4IDAsLTIuNTAyNSAxLjAxMzcyLC00LjU3MzMyIDMuMDM5MDYsLTYuMjEyOSAxLjgzNDI2LC0xLjQ2Njk4IDQuMDg4NywtMi4zMjkwMSA2Ljc2MzY3LC0yLjU4Nzg5IDEuODcyNDgsLTAuMTcyNTkgMy4yODQ4OCwtMC40OTgwNSA0LjI0MDI0LC0wLjk3MjY1IDEuMzM3NDgsLTAuNjA0MDUgMi4wMDc4MSwtMS41OTU4OSAyLjAwNzgxLC0yLjk3NjU2IDAsLTEuNTEwMTQgLTAuNTE3MDUsLTIuNzgyODQgLTEuNTQ4ODMsLTMuODE4MzYgLTEuMDMxNzcsLTEuMDM1NTIgLTIuMjU0MDUsLTEuNTUyNzQgLTMuNjY3OTcsLTEuNTUyNzQgLTEuNDkwMzQsMCAtMi43OTAyMywwLjQ5NTkxIC0zLjg5ODQzLDEuNDg4MjggLTEuMTQ2NDIsMS4wMzU1MiAtMS43MTg3NSwyLjMyOTUzIC0xLjcxODc1LDMuODgyODIgbCAwLDAuOTcwNyAtMy45NTUwOCwwIDAsLTEuOTQxNDEgYyAwLC0yLjUwMjQ5IDAuOTkzMzUsLTQuNTUyMDEgMi45ODA0NywtNi4xNDg0NCAxLjgzNDI3LC0xLjQ2Njk4IDQuMDMxNDYsLTIuMTk5MjEgNi41OTE3OSwtMi4xOTkyMSB6IG0gLTE4LjkzNzUsMC40NTExNyAzLjg5ODQ0LDAgMCwyOS41MTM2NyAtMy44OTg0NCwwIDAsLTI5LjUxMzY3IHogbSA0NS40OTAyNCwwIGMgMi43MTMxOCwwIDUuMDI0ODUsMS4xMjM1NyA2LjkzNTU0LDMuMzY3MTkgMS45MTA3LDIuMjAwNDYgMi44NjUyNCw0Ljg1MjQzIDIuODY1MjQsNy45NTg5OCBsIDAsMTguMTg3NSAtMy45NTUwOCwwIDAsLTE4LjE4NzUgYyAwLC0xLjk4NDc0IC0wLjYyOTU3LC0zLjY2NjE5IC0xLjg5MDYyLC01LjA0Njg4IC0xLjI2MTA2LC0xLjM4MDY4IC0yLjc4OTg4LC0yLjA3MjI2IC00LjU4NTk0LC0yLjA3MjI2IC0xLjc5NjA1LDAgLTMuMzQzMzEsMC42OTE1OCAtNC42NDI1OCwyLjA3MjI2IC0xLjI5OTI3LDEuMzgwNjkgLTEuOTQ5MjIsMy4wNjIxNCAtMS45NDkyMiw1LjA0Njg4IGwgMCwxOC4xODc1IC0zLjg5ODQ0LDAgMCwtMjguNTQxMDIgMy44OTg0NCwwIDAsMi45NzY1NyBjIDAuNjg3ODUsLTEuMzM3NTUgMS43MDE1OCwtMi4zNTI2MyAzLjAzOTA2LC0zLjA0Mjk3IDEuMjYxMDYsLTAuNjA0MDYgMi42NTUwNCwtMC45MDYyNSA0LjE4MzYsLTAuOTA2MjUgeiBtIC0xMDkuNzA1MDgsMC40NDE0IDAsNi42MDkzOCAwLjEyMzA1LDAgYyAyLjIzMjM1LC0zLjU3MjU1IDQuNzEyNDksLTYuNDkwMjQgNy4zNzg5LC02LjQ5MDI0IDIuNDE4MzcsMCA0LjA5Mzc1LDEuNzI2MzggNC4wOTM3NSwzLjQ1MzEzIDAsMS43ODYyOCAtMS4xNzgyNywzLjI3MzcyIC0yLjcyODUxLDMuODY5MTQgLTAuODA2MTIsMC4yOTc3MSAtMS4zNjQ3NywwLjExODk4IC0xLjc5ODgzLC0wLjIzODI4IC0wLjk5MjE2LC0wLjc3NDA2IC0xLjc5NzM4LC0xLjE4OTQ1IC0yLjg1MTU2LC0xLjE4OTQ1IC0xLjM2NDIsMCAtMy4wMzg2MiwxLjI1MDMxIC00LjIxNjgsNC4wNDg4MiBsIDAsMTEuMDE1NjMgYyAwLDMuODcwMjcgMC4zMDg3Niw0LjE2NzE4IDUuMjY5NTMsNC41ODM5OCBsIDAsMS43ODcxMSAtMTYuMzA2NjQsMCAwLC0xLjc4NzExIGMgMy42NTg1NywtMC40MTY4IDQuMjE0ODQsLTAuNzEzNzEgNC4yMTQ4NCwtNC41ODM5OCBsIDAsLTEyLjg2MTMzIGMgMCwtMy40NTM0OCAtMC40MzMyMiwtMy42OTE2OCAtMy41OTU3LC00LjI4NzExIGwgMCwtMS41NDg4MyBjIDMuNDEwNTMsLTAuNDE2ODEgNi44MjE0MSwtMS4xOSAxMC40MTc5NywtMi4zODA4NiB6IG0gLTU4Ljk2ODc1LDAuMTE5MTQgMC4wNjI1LDAgYyA1LjU4MDg3LDAgOS45ODM4Nyw0LjY0MjkxIDkuOTIxODcsOS41MjUzOSAwLDEuMTkwODcgLTAuMzczMDgsMS44NDU4MiAtMS42MTMyOCwyLjA4Mzk5IC0xLjExNjE3LDAuMTE5MDkgLTguOTkwOTcsMC43MTQ5NCAtMTUuNzUsMC45NTMxMiAwLjE4NjAzLDcuMjA0NjYgNC40MDMsMTAuNTM5MDcgOC45Mjk2OSwxMC41MzkwNyAyLjQ4MDM4LDAgNC44OTg1MSwtMC44OTI1MSA3LjEzMDg2LC0yLjg1NzQyIGwgMS4wNTQ2OSwxLjQyNzczIGMgLTMuOTA2Niw1LjIzOTc2IC04LjYyMDIsNi4zNzEwOSAtMTAuOTc2NTYsNi4zNzEwOSAtOC4xMjMyNCwwIC0xMi44MzU5NCwtNS45NTM0MyAtMTIuODM1OTQsLTEyLjkxOTkyIDAsLTQuMzQ2NjEgMS43OTg0MywtOC4wOTY5MyA0LjQ2NDg0LC0xMC43MTY4IDIuNzI4NDEsLTIuNzM4OTcgNi4yNjI4MiwtNC40MDYyNSA5LjYxMTMzLC00LjQwNjI1IHogbSAyMy44MzM5OCwwLjI5Njg4IGMgLTAuMTI0MDIsMi4yNjI2MiAtMC4xODU1NCw1LjIzOTA0IC0wLjE4NTU0LDguOTkwMjMgbCAwLDguNTE1NjMgYyAwLDQuNTI1MjQgMi40ODAwNSw1Ljk1MzEyIDQuODk4NDMsNS45NTMxMiAxLjk4NDMsMCAzLjc4MzI3LC0wLjU5NTQ3IDUuNTE5NTQsLTIuMjAzMTIgbCAwLC0xNC40MDgyIGMgMCwtMy4wMzY2NyAtMC40MzQ2NSwtMy4zOTQ3MSAtMi4yOTQ5MywtMy43NTE5NiBsIC0yLjE2OTkyLC0wLjM1NzQyIDAsLTEuNjA3NDIgYyAxLjg2MDI4LC0wLjA1OTYgNC4wOTI4NSwtMC4yMzg0IDYuMjAxMTcsLTAuNDc2NTYgMS45ODQzMSwtMC4xNzg2MyAzLjg0MzgsLTAuNDE2MTQgNS4wODM5OSwtMC42NTQzIGwgMCwxOS44MjgxMiBjIDAsMy4xNTU3NiAwLjQzMzE5LDMuNjkwNTIgMi44NTE1NiwzLjg2OTE1IGwgMS40ODgyOCwwLjExOTE0IDAsMS43ODcxIGMgLTEuNjEyMjUsMC4yMzgxNyAtMy40MDkyNCwwLjUzNjMzIC01LjI2OTUzLDAuOTUzMTMgLTEuOTIyMjksMC4zNTcyNSAtMy43ODM3NCwwLjgzMjIgLTUuMzMzOTgsMS4xODk0NSBsIC0wLjU1NjY0LC0wLjQxNjAxIDAsLTMuOTI5NjkgYyAtMS4yNDAxOSwwLjk1MjY3IC0yLjIzMzQ3LDEuNzg2NTQgLTMuODQ1NzEsMi42Nzk2OSAtMS43OTgyOCwxLjA3MTc2IC0zLjM0ODY5LDEuNjY2MDEgLTUuMjA4OTgsMS42NjYwMSAtNC44OTg3NSwwIC04LjE4NTU1LC0yLjkxNTgyIC04LjE4NTU1LC04LjgxMDU0IGwgMCwtMTIuMDg3ODkgYyAwLC0zLjAzNjY3IC0wLjQzMjY4LC0zLjMzNTE3IC0yLjA0NDkyLC0zLjc1MTk2IGwgLTEuNjEzMjgsLTAuMzU3NDIgMCwtMS42MDc0MiBjIDEuNDg4MjIsLTAuMDU5NiAzLjIyNTE2LC0wLjIzODQgNS4yNzE0OCwtMC40NzY1NiAxLjkyMjI5LC0wLjE3ODYzIDMuOTY4MzIsLTAuNDE2MTQgNS4zOTQ1MywtMC42NTQzIHogTSAyMzUuNDYsNDQ0LjU5ODUyIGMgLTIuNTQyMzgsMCAtNC45NjA0NywyLjU1OTkxIC01LjY0MjU4LDcuNTAxOTYgMy4wMzg0NiwwIDUuODkxMjMsLTAuMDU4NyA4LjkyOTY5LC0wLjE3Nzc0IDEuMDU0MTcsMCAxLjQyNTc4LC0wLjIzODcxIDEuNDI1NzgsLTEuMTkxNCAwLC0zLjA5NjIxIC0xLjczNTQ0LC02LjEzMjgyIC00LjU4Nzg5LC02LjEzMjgyIGwgLTAuMTI1LDAgeiBtIDkxLjg2NzE5LDExLjgxNjQxIGMgLTEuMDcsMC45OTIzNyAtMy4wMTc4OSwxLjYxODA3IC01Ljg0NTcxLDEuODc2OTUgbCAtMS4wODk4NCwwLjA2NDUgYyAtMS40MTM5MSwwLjEyOTQ0IC0yLjYxNzc2LDAuNjI1MzUgLTMuNjExMzMsMS40ODgyOCAtMS4wNjk5OSwwLjkwNjA3IC0xLjYwNTQ3LDIuMDQ4OTkgLTEuNjA1NDcsMy40Mjk2OSAwLDEuMjUxMjQgMC40OTY2OCwyLjI4NzYzIDEuNDkwMjQsMy4xMDc0MiAwLjkxNzEzLDAuNzMzNDggMi4wMjY4OSwxLjA5OTYxIDMuMzI2MTcsMS4wOTk2MSAxLjk4NzEyLDAgMy42ODc2NCwtMC42NjgzMiA1LjEwMTU2LC0yLjAwNTg2IDEuNDkwMzQsLTEuMzM3NTUgMi4yMzQzOCwtMy4wNDIyNSAyLjIzNDM4LC01LjExMzI4IGwgMCwtMy45NDcyNyB6IG0gNTYuOTU4OTgsMCBjIC0xLjA2OTk5LDAuOTkyMzcgLTMuMDE5ODMsMS42MTgwNyAtNS44NDc2NiwxLjg3Njk1IGwgLTEuMDg3ODksMC4wNjQ1IGMgLTEuNDEzOTIsMC4xMjk0NCAtMi42MTc3NywwLjYyNTM1IC0zLjYxMTMzLDEuNDg4MjggLTEuMDY5OTcsMC45MDYwNyAtMS42MDU0NiwyLjA0ODk5IC0xLjYwNTQ2LDMuNDI5NjkgMCwxLjI1MTI0IDAuNDk2NjgsMi4yODc2MyAxLjQ5MDIzLDMuMTA3NDIgMC45MTcxNCwwLjczMzQ4IDIuMDI0OTUsMS4wOTk2MSAzLjMyNDIyLDEuMDk5NjEgMS45ODcxMiwwIDMuNjg3NjUsLTAuNjY4MzIgNS4xMDE1NiwtMi4wMDU4NiAxLjQ5MDM1LC0xLjMzNzU1IDIuMjM2MzMsLTMuMDQyMjUgMi4yMzYzMywtNS4xMTMyOCBsIDAsLTMuOTQ3MjcgeiIKICAgICAgIGlkPSJwYXRoNTAxNCIKICAgICAgIGlua3NjYXBlOmNvbm5lY3Rvci1jdXJ2YXR1cmU9IjAiCiAgICAgICBpbmtzY2FwZTpleHBvcnQteGRwaT0iOTAiCiAgICAgICBpbmtzY2FwZTpleHBvcnQteWRwaT0iOTAiIC8+CiAgPC9nPgo8L3N2Zz4K"> DXF from Fusion 360 for hearts and blades </a> 
+                                
+                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal 4 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>Week 4</h2>
+                                <p class="item-intro text-muted">04. Electronic Production.</p>
+                                <img class="img-fluid d-block mx-auto" src="" alt="">
+                                <p></p>
+                                <ul class="list-inline">
+                                    <li>Deliverables</li>  </ul>
+                                    <li>1. Shown how you made and programmed the board.</li>
+                                    <li>2. Explained any problems (and there were plenty :) and how you fixed them.</li>
+                                    <li>3. Included a ‘hero shot’ of your board.</li>
+                            </div>
+                            <BR>
+                            <div>
+                                <p class="h4"> Producing & Programming the FabISP Board  </p> 
+                                    <p class="h5">1. Producing the design of the FabISP Board </p>
+                                
+                                I used the Fab Modules to get the PCB traces & interior design in png to use in the milling machine . I used the settings recommended by the FabLab instructor.
+                            </div>
+                            <div>
+                                <p class="h5">2. Cutting  the FabISP Board </p>
+                               <img src="https://drive.google.com/uc?export=view&id=0B-DMx1hqWlC5VDVUMGlmQzBjREE" alt="" width="300" >
+                                <img src="https://drive.google.com/uc?export=view&id=0B-DMx1hqWlC5VW84RVpsd1IzaEk" alt="" width="300">
+                                
+                                
+                                <p>I did the set up & cut on the machine Roland Modela MDX-20. Setting the the x,y origin on the machine was the easy part. Setting the Z is a bit more delicate, but with tips from the fablab coordinator this was correctly done so the drill is in direct contact with board. 
+                                    For the board trace I used a 1/64 drill, and the a 1/34 to cut the contour. 
+                                    Note: it is key to set the X/Y as origin when drilling traces and we would use it to drill the contour.</p>
+                                
+                            </div>
+                            
+                            <div> 
+                            <BR>
+                                
+                                
+                                <p class="h5">3. Soldering the components on the FabiSP board and programming the board</p>  
+                                
+                                <p class="h5">Soldering & troubleshooting day 1</p>
+                                
+                     <ol>
+                                  <li>After gathering all the components I dived into soldering without trying on an used board. And that what was not a good idea.</li>	
+                         <img src="https://drive.google.com/uc?export=view&id=0B-DMx1hqWlC5MmRRWnZpRGlBMm8" alt="" width="300">
+                              <img src="https://drive.google.com/uc?export=view&id=0B-DMx1hqWlC5djVoODBSMGN2MzA" alt="" width="300">
+                         
+                         
+                                <li>I then check the connectivity of the circuit (the green light from the controller indicating that the components were correctly sold to the board) which was a fail</li> 
+                         <img src="https://raw.githubusercontent.com/jean-christophe/JCT/week4/Week4-Green-Line.jpg" alt="" width="450">
+                         
+                                <li>This gave the opportunity to really learn about the role of each of the component (resistors, jumpers, diodes, …) and how the current was flowing from one to the other.</li>  
+                       
+                         
+                                <li>Xavi, one of the instructor kindly taught me how to use the voltmeter to check each soldering points.</li>
+                         <img src="https://lh6.googleusercontent.com/UsvnkOvXjdhBLgjhU0XiAbqCxCx_h7zf40sFTNO3r5ZUZZtI08WgBKHn5oUTYkKBLEtDVgAiliDnw-0=w2078-h1478" alt="" width="400">
+                         
+                                <li>At the end of the day I soldered again most of my components. </li>
+                                <li>Checking the AVR micro controllder is working correctly: after resoldering all components again and testing all connections we could not figure out why the AVR was still producing an incorrect connection signal (red light). We discovered the cable of the AVR was faulty all this time, after running the test with another controller. </li>
+                          <img src="https://github.com/jean-christophe/JCT/blob/week4/Week4-Faulty-Cable-Avr-programmer.jpg?raw=true" alt="" width="450" >
+                       
+                         
+	                           <li>All was now for the best, but then I accidently connected the usb pin incorrectly to the board burning out some of the components (I could hear the components burning out).</li>
+                         <img src="https://github.com/jean-christophe/JCT/blob/week4/Week4-Components-burned.jpg?raw=true" alt="" width="500">
+                         
+	                       <li>I decided it was best to restart reprinting the board and soldering the components again.</li>
+                                <li>Fortunately while picking the components I made two sets in case I needed to remake the board.</li>
+                                </ol>
+                                
+                                <p class="h4">Soldering and troubleshooting Day 2</p>
+                               <ol>
+                                   <li>Day 2: I made another board and soldered the components. I checked each solder joint under the microscope to determine any weaknesses or solder shorts. </li>
+	<li>I checked to make sure each component matched the diagram I soldered. </li>
+	<li>I made sure the diodes and leds were correctly positioned directionally on the board.</li>
+                                   <li>I programmed the board quickly successfully I thought following the instructions</li>
+	<li>The ISPFABLab board not showing on the USB port of my laptop. I reprogrammed the board three times. Each time I did not get an error message. </li> 
+                                 <img src="https://github.com/jean-christophe/JCT/blob/week4/Week4-whereistheiSP.jpg?raw=true" alt="" width="600">
+	<li>Xavi one of the instructors used multiple computers, USB ports, a fresh Arduino install and Ubuntu to see if we could recognize the board on the USB port. But to no success.</li>
+	<li>It was recommended I checked previous year students webpages to see if someone faced the same issue.</li>
+<li>I did not want to check all website so I used google advanced search to only search on the archive.fabacademy website.</li>
+                                   <img src="https://github.com/jean-christophe/JCT/blob/week4/Week4-Using-Google-to-search.jpg?raw=true" alt="" width="600">
+                                   <li> I found two possible solutions. Solution 1 was to remove the jumpers before programming. It dit not work for me </li>
+                                     <img src="https://github.com/jean-christophe/JCT/blob/week4/Week4-Troubleshoot1-removejumpers.jpg?raw=true" alt="" width="500" >
+                                   <li> Solution 2 was then tried: replacing the diodes that might have been burned during the soldering process while still showing (incorrectly) a correct connection (greenLight) </li>
+                                   <img src="https://github.com/jean-christophe/JCT/blob/week4/Week4-troubleshooting2-Diodes.jpg?raw=true" alt "" width="500">
+                                   <li>To my greatest relief solution 2 worked and after reprogramming the board again I could finally see it in my USB port</li>
+                                   <img src="https://raw.githubusercontent.com/jean-christophe/JCT/week4/Week4-Board-showing-on-PC.jpg" alt"" width="600">
+                                   <img src="https://lh4.googleusercontent.com/UcwIi9-66ddz6pX7jvMH_D67hgl4XDacR9Ait2t3Aj7aKR_84SmINT7uUK8JKVd4Kpos1gQeUqfr7R4=w2078-h1478" alt="" width="600">
+                                   
+                                   </ol>
+                                
+                                </div>
+                                <div>
+                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal 5 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>Week 5</h2>
+                                <p class="item-intro text-muted">3D scanning and Printing.</p>
+                               
+                                <p>Assignements</p>
+                                <ul class="list-inline">
+                                    <li>Group Assignement: test the design rules for your printer(s)</li>
+                                    <li>Individual Assignment: (1) design and 3D print an object (small, few cm) that could not be made subtractivel & (2)  3D scan an object (and optionally print it) (extra credit: make your own scanner)</li>
+                            
+                                      <BR>
+                                    <p class="h4">3D Scanning</p>
+                                    
+                                    <BR>
+                                    <p class="h5">3D Scanning with Kinnect</p>
+                               
+                                    <BR>
+                                 <div><p>I used the Kinnect model 14 we had available from Xbox and the software Skanet to 3D scan. With the help of a classmate and after 3 attempt to get the motion and distance right I was able to collect a very detailed 3D of myself. I was seating on a rotating chair and the Kinnect was hardly moving.</p>  <img src="/img/w5-kinntect.png" alt="" width="300" style="float:left">
+                                    <p>Because we are using a free version of the software Skanet the number of meshes (and there the quality of the 3D scan) is limited. However there are a free useful too in Skanet that enables to remove any "noise" from the 3D scan that should not have been captured.</p>
+                                      <img src="/img/w5-kinnect-3D-scan.jpg" alt="" width="300" style="float:right">
+                                     <img src="img/w5-removingdirt-skanet.jpg" >
+                                     
+                                    </div>   
+                                        
+                                          <p class="h5">Meshmixer to create a shape with a meaning</p>
+                                        <p>This is the steps I followed to created this shape which is supposed to represent the idea of growing as a person, becoming more defined in a way</p>
+                                        <img src="img/w5-meshmixer-to-duplicate.png" alt="" width="600" >
+                                    <ul>
+                                        <li>Free transform (white square) to reduce size</li>
+                                        <li>Edit > duplicate to create the duplicate object in a new layer</li>
+<li>Edit > Free Transform to rotate Y, X the object</li>
+<li>Select meshes,  > Edit > Reduce the number of mesches percentage for the left part of each face, in order to have a growing pattern (representing the idea of becoming yourself)</li>
+<li>Object  > group Layers together.</li>
+                                        
+                                          <img src="img/w5-usingMeshMixer.jpg" width="400">
+                                        <img src="img/W5-Cura-highlights-red.jpg" width="600">
+                                        
+                                        <p> The 3D print went well except one of the head fell because I did not use support, which I wanted to avoid. To solve this I used acetenone to melt the missing piece into the general print</p>
+                                        
+                                        <img src="img/w5-headfall-fixed-w-acetone.jpg" alt"" width="600">
+                                        
+                                            <p class="h5">Iphone App 3D scanning</p>
+                                        <p>I tried Nettelo to scan a body shape. As it is still cold we kept the cloth on, but overall the result was dissapointing</p>
+                                       <img src="img/w5-Nettelo-body-Scan.jpg" alt="nettelo" width="600">
+                                
+                                        
+                                        <p class="h4"> Creating an 3D Printed object</p>
+                                        <img src="img/w5-3D-printer-action.jpg" alt="" width="600">
+                                        <p>In my free time I built flower frame by adding a flower pot into a wooden frame, using drills & nails. So I wanted to try 3D to see if I could produce the same </p>
+                                        <p>I first used Fusion 360 but I really struggled to create a nicely dented frame with volume, so I switched to Rhino, and with the precious help of Cyst I could create exactly what I wanted </p>
+                                        
+                                        <p>Using cura to check what was the best way to position the object to print (faster, less support possible), it made me realise I had to modify my object to reduce as much as possible the support. 
+                                        <img src=img/w5-cura-setup.jpg alt="" width="600">
+                                            <p class="h4">Avoid support if possible</p>
+                                        <p>As you will see in the pictures below, even after reducing the amount of support, I still needed to have some support in my print. What I did not know is how difficult it is to remove the support without damaging the print. I really undertand now why it is so important to take out as much as possible support.</p>
+                                        <img src="img/w5-vase-frame-printed.jpg" alt="" width="600">
+                                        <img src=img/W5-3D-printed-support-and-infill.jpg alt="" width="600">
+                                        
+                                        
+                                        
+                                        
+                                     
+                                </ul>
+                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal 6 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>Week 6</h2>
+                                <p class="item-intro text-muted">Electronics Design</p>
+                                <img class="img-fluid d-block mx-auto" src="" alt="">
+                                <p class="h4">Assignements</p>
+                                <ul class="list-inline">
+                                    <li>Redraw the echo hello-world board and add (at least) a button and LED </li>
+                                    <li>check the design rules, and make it.</li>
+                        
+                                     </ul>
+                                
+                                    <h4>Designing the board with Eagle Software</h4>
+                                    
+                                <p>I used the instructions in the link<a href="http://academy.cba.mit.edu/classes/embedded_programming/index.html#echo"> here. </a>
+                                    
+                                    <h5>1. Design the board it the schematic mode in Eagle</h5>
+                                
+                                <p>Once Eagle was downloaded, and the fab library correctly imported, I added all the components to my schematic view, mainly adding the command line (ADD). I then went to Label & name each of the connection as per the graphic. Initially I started to manually connect each connection using the line symbol, but I swithched to the NET command i was recommended to connect components. The benefit is that you can connect two pins without the schematic being drown under too many lines.</p>
+                                
+                            <img src="img/w6-Eagle-Schematic.jpg" alt="" width="600">
+                                    
+                                    <h5>After the schematic is completed change to board view: 2 options autorouter or manual router</h5>
+                                <img src="img/w6-Eagle-UseofAutorouter.jpg" alt="" width="600">
+                                <p>After the shematic is completed (at least this is what I though) I switch ed to eagle board view where you have the possibility auto route manually the connections between the components based on the schematic completed earlier. I run the auto router to give it a try but I could not picture how the connection were made, so i prefered to make the connection manually.</p>
+                                    
+                                    <h5>Drawing the connection manually in Eagle</h5>
+                                <img src="img/w6-understandingtheboardview-eagle.jpg" alt="" width="600">
+                                  
+                                 <h5>Tips using eagle</h5>
+                                <p>Go to options, grid, and reduce the grid size. I tried with .05 mm, it really helps drawing the trace in the board view. </p>
+                                <img src="img/w6-changing-the-grid-set-eagle-view-eagle.jpg">
+                                
+                                    <h4>Problems during the design of the board and how they were fixed</h4>
+                            
+                            <h5>The DRC check see errors in your board design.</h5>
+                            <h5>Problem solving the board in Eagle</h5>
+                           
+                                <p>After connecting the componenents on the board view, go to tools, DRC to ensure there are no errors in the board.</p>
+                                <img src="img/w6-DRC-Check-eagle.jpg">
+                                
+                           
+                                <p>For a long time I could not understand my board errors until I went back to the schematic view where I realised I manually created a conneciton within the capacitor. OUGHR ! :)</p>
+                            <img src="img/w6-incorrectline-inschematic-eagle.jpg" alt="" width="600">
+                                
+                                <h5>Next step aClearance check</h5>
+                                  <img src="img/w6-DRC-clearance-check-Eagle.jpg">
+                            
+                             <p>The <b>clearance check</b> is there to ensure that the milling machine drill wont trace over the components area on the board.</p>
+                                
+                              
+                        
+                             <p>Clearance issue  remains even after reducing the trace width in eagle. The concern with reducing trace width in eagle is the potential reduction in electricity conduction. </p>
+                                    <img src="img/w6-Board-view-clearanceissue-eagle.jpg" alt="" width="600">
+                            
+                            
+                            <H5>The board is finally ready in Eagle</H5>
+                                <img src="img/w6-Final-board-Eagle.jpg" alt="final boar eagle" width="600">
+                            
+                                    
+                                
+                                    <h5>From eagle to Rolland</h5>
+                                    <img src="img/w6-Fab-module-setup-Traces-Roland-SRC20.jpg" alt="" width="300">
+                            <p>I used photoshop to get the eagle board as trace and contour png images ready for milling. To do so I had to add an extra 2mm on each side of the board to create the contour. Note I followed instructions and used a high resolution of 500pi to get the best quality for milling.</p>
+                            
+                         
+                            
+                                 
+                            <h4>Milling the electronic board</h4>
+                               
+                        <img src="img/w6-Drilling.jpg" alt="" width="400">
+                        <p>I used Fab Modules to get the files (traces with drill 1/64 (4 offsets) and contour with drill 1/32 (no offsets)) ready for the rolland SR20.</p>
+                       
+                            <img src="iimg/w6-program-on-the-board.jpg" alt="Traces" width="400"> 
+                                
+                         <img src="img/w6-Fab-module-setup-Traces-Roland-SRC20.jpg" alt="Traces" width="400">      
+                             
+                                <p>I had a few issues with the milling machine. At the end with the help of the instructor we had to set the Z axis by spinning the drill until it touches and the board and we could see the dust generated.</p>
+                                <img src="img/w6-error-with-roland.jpg" alt="Traces" width="400">  
+                                
+                                <p>Once rolland machine was on I experienced 2 other issues, one for which I was to blame :). First I forgot to invert the image which meant the machine was milling the cooper out of where my componenents and connections were. Not very useful for an electronic board. Secondly, after i changed it, the surface of the support was not completely flat which meant some parts of the board were not milled.</p>
+                                
+                             <img src="img/w6-2errors-printing-the-board.jpg" alt="Traces" width="600">
+                                
+                             <BR>
+                                 
+                                 <img src="img/w6-Final-Milled-board.jpg" alt="Traces" width="600">
+                                
+                             <p>The 3rd attempt to mill the board was the right one. I then went on soldering the components onto the board, which was must easier than the first time i soldered.</p>    
+                                 
+                                   <img src="img/w6-soldering.jpg" alt="Traces" width="600">
+                            
+        
+                             <p>The 3rd attempt to mill the board was the right one. After milling all the components on the board</p>                  
+                                
+                                <img src="img/w6-Final-board-Eagle.jpg" alt="Traces" width="600">
+                                
+                                
+                               <h4>Progamming the board</h4>
+                                <img src="img/w6-error-programming-eagle.jpg" alt="" width="600">
+                                
+                               
+                                
+                                
+                                
+                            
+                                
+                                  
+                                
+                                
+                                
+                                
+                                
+                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+       <!-- Modal 7 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal7" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>Week 7</h2>
+                                <p class="item-intro text-muted">Cutting.</p>
+                                <img class="img-fluid d-block mx-auto" src="https://s3.amazonaws.com/fab17img/website/Assignments/01-full.jpg" alt="">
+                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                <ul class="list-inline">
+                                    <li>Date: January 2017</li>
+                                    <li>Client: Threads</li>
+                                    <li>Category: Illustration</li>
+                                </ul>
+                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal 8 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal8" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>Week 8</h2>
+                                <p class="item-intro text-muted">08. EMBEDDED PROGRAMMING</p>
+
+                                <p>This week was about to get an understanding of the a microcontroller datasheet, in that case an attinity44 from Amtel. The second assignement was to program our Board with a language of our choice to do something, as well as explore other programing languages.</p>
+                               
+                                <h4>Attinity 44 datasheet</h4>
+                                <p>I was surprised by the details of information provided in the datasheet .link 
+                                <a href="http://academy.cba.mit.edu/classes/embedded_programming/doc8183.pdf">here.</a> 
+                                
+                                    <p>My main focus was to try to understand the flow of information when the burn loader is run, and a program is run.</p>
+                                    <img src="img/W8-QuestionDiagramAttinity44.jpg" alt="" width="800">
+                                    
+                                <h4>Programming the board to do something</h4>
+                                <h5>Using my FabiSP to program my board= Failed !</h5>
+                                   <img src="img/w8-failed-attempt-programwithISPTiny.jpg" alt="" width="500">
+                                        <img src="img/w8-failed-attempt-programwithISPTiny-setting.jpg" alt="" width="500">
+                                <p>I received an error message when trying to run the burnloader, that the FabiSP could not be recognized as a USB.<p>
+                                
+                                <h5>Using my FabiSP to program my board= Done !</h5>
+                                <p>I used the AVR to program my board. After changing the settings I could run the bootloader without too much difficulty.</p>
+                                <p>First step was to enable Arduino Sketch to program the ATtiny44. To do so I simply needed to add the corresponding board manager for ATtiny44.</p>
+                                  <img src="img/w8-Setup-Sketch-to-Program-Attininy44.jpg" alt="" width="800">
+                                    <img src="img/w8-burnloader-with-AVR.jpg" alt="" width="800">
+                                
+                                
+                                <h5>Making the LED to turn on and off</h5>
+                                
+                                <p>I used the table showing the correspondance between ATtiny44 and Arduino ports (link <a href="http://42bots.com/tutorials/programming-attiny84-attiny44-with-arduino-uno/">here</a>) to adjust an existing Arduino sketch </p>
+                                 <p>I could then used a Sketch that would turn on and off by pushing the button, a blinking LED</p>
+                                <img src="img/W8-Led-is-on-off.jpg" alt="" width="800">.
+                                <a href="img/W8-Debounced-Sketch-Code.ino">Link to the sketch</a>
+                                
+                                  <h5>Trying to recreate the board that you can find in a commercial weight scale</h5>
+                                <img src="img/w8-Bathroom-Scale.jpg" alt="" width="800">
+                                    
+                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal 9 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal9" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+
+                                <h2>Week 9</h2>
+                                <p class="item-intro text-muted">09.Mechanical Design</p>
+                                <img class="img-fluid d-block mx-auto" src="img/w9-machinebuilding-summarypic.jpg" alt="machine building group assignement jean christophe thuan" with="1000">
+                                
+                                <iframe src="https://player.vimeo.com/video/216841906" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/216841906">solartracker1.10</a> from <a href="https://vimeo.com/user27397478">jc thuan</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+                                
+                                <p></p>
+                                <a href="http://archive.fabacademy.org/archives/2017/fablabbcn/group/machine/group6/index.html">Access the group page</a>
+                                    
+                            <BR>
+                                   
+
+                                
+                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal 10 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal10" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>Project Name10</h2>
+                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                <img class="img-fluid d-block mx-auto" src="https://s3.amazonaws.com/fab17img/website/Assignments/04-full.jpg" alt="">
+                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                <ul class="list-inline">
+                                    <li>Date: January 2017</li>
+                                    <li>Client: Lines</li>
+                                    <li>Category: Branding</li>
+                                </ul>
+                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal 11 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal11" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>Week 11</h2>
+                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                <img class="img-fluid d-block mx-auto" src="https://s3.amazonaws.com/fab17img/website/Assignments/05-full.jpg" alt="">
+                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                <ul class="list-inline">
+                                    <li>Date: January 2017</li>
+                                    <li>Client: Southwest</li>
+                                    <li>Category: Website Design</li>
+                                </ul>
+                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal 12 Molding and casting -->
+    <div class="portfolio-modal modal fade" id="portfolioModal12" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>Week 12</h2>
+                                <p class="item-intro text-muted">Molding & Casting</p>
+                                <img class="img-fluid d-block mx-auto" src="img/w12_hero_6618.jpg" alt="">
+                                <h4>Looking forward to mould some chocolate !! :)</h4>
+                                <p>For this assignement students should</p>
+                                <ul class="list-inline">
+                                    <li>Explained how you made your files for machining</li>
+                                    <li>Shown how you made your mould and cast the parts</li>
+                                    <li>Described problems and how you fixed them</li>
+                                    <li>Included your design files and ‘hero shot’ photos of the mould and the final object</li>
+                                </ul>
+                                
+                                 
+                                   <h4>Creating the files for machining</h4>
+                                <h5>3D design in Rhino</h5>
+                              <p>I used an existing 3D design I already created and adjusted it so I could use it as a chocolate mold, that I exported as an STL.</p>
+                                                                    
+                                    <img src="img/W12-RHINO.jpg" alt="" width="500">
+                                
+                                <p>In the software Modella Player for Rolland SRM-20 I opened the STL file to define the drilling strategy. What you do is create a path strategy for my rough and finishing drill. The benefit is that the rough drill can take a lot more wax in a faster way, and then complete it with the finishing drill enable to have a slick wax mould. In terms of path. given the shape of design, SCAN line strategy was the best approach for the rough drilling.</p>
+                                   <img src="img/w12_Scanlines.jpg" alt="" width="500">
+                                <p>I followed the existing settings for the rought drill 3.18 inch</p>
+                                <img src="img/W12_settingsrough.jpg" alt="" width="500">
+                                <img src="img/W12_drill_3.18IMG_6449.jpg" alt="" width="500">
+                                img src="img/w12_waz_rolland.jpg" alt="" width="800">
+                               
+                                
+                                
+                                <p>The results of the rough drill was satisfactory but the text sections looked like a block of wax. </p>
+                                              <img src="img/w12_afterfinish.jpg" alt="" width="500">
+                                
+                                <h5>Finishing drill to define the text</h5>
+                                 <p>As I had some texts in my design, I paid particular attention to the finishing. I took the decision to change the drill for the finishing maximising to have the text milled with the best quality. Unfortunately, given the small size of my model, the text was only 2m height, and even with the 1/64 drill, the resolution of the text once drilled made it a bit difficult to read</p>
+                                  <img src="img/w12_afterdrillrough.jpg" alt="" width="500">
+                                <img src="img/w12_fullsettings.jpg" alt="" width="500">
+                                <img src="img/w12_finishing-rolland.jpg" alt="" width="500">
+                            
+                            
+                               
+                                
+                                <p>I made an other attempt to drill another piece with much larger text. Unfortunately I did not set the margins for the box right, which meant I did not have any gap surrounding my design. I tried to fix this with a screw and hammer but I ended up damaging my wax mould.</p>
+                                      <img src="img/w12_attempt.jpg" alt="" width="500">
+                                <img src="img/w12_failedattempt.jpg" alt="" width="500">
+                               
+       <h4>Mould and cast the parts</h4>
+                                    <h5>Final Results</h5>
+                                 <img src="img/w12_finalmold.jpg" alt="" width="500">
+                             
+                                <h5>Safety</h5>
+                                <img src="img/w12_tablier.jpg" alt="" width="500">
+                                <p>First a word on Safety, where we had to wear gloves, glasses, and coverall for this part of the process</p>
+                                
+                                <H5>Measuring</H5>
+                                    <p>For 100g of part A (silicone) I poured 3% of part B (catalyser) into a mixing container. </p>
+                                <img src="img/w12_smooth-sil-940-combo-533x400.jpg" alt="" width="500">
+                                          <img src="img/w12_volume_weightonlinecalculator.jpg" alt="" width="500">
+                                       <img src="img/w12_weight.jpg" alt="" width="500">
+                                
+                                <h5>Mixing</h5>
+                                <p>I mixed for a good 5 minutes which was not enough :(. Make sure you mix it well, as I could spot some part with 2 different colors in my mould at the end. </p>
+        
+                                   <img src="img/w12_santipouring.jpg" alt="" width="500">
+                                
+                                    <h5>Removing Air bubbles/h5>
+                                        <p>When mixing and pouring into the wax mould we are creting air bubbles that risk damaning our mould once dry, this is the reason we need to take out as many air bubbles as possible.</p>
+                                <img src="img/w12_pressureMinus1Bar.jpg" alt="" width="500">
+                             
+                                    <img src="img/w12_vacummpump.jpg" alt="" width="500">
+                                <img src="img/w12_broken_cover.jpg" alt="" width="500">
+                              
+                           <p>We also used an hot air gun to remove air bubbles from the top side.</p>
+                                <img src="img/w12Hotairguntoblowairbulbbles.jpg" alt="" width="500">
+                      
+                                <h5>Curing / Post Curing </h5>
+                                <p>Before demolding I waited 24 hours as per the datasheet, then used an air gun to take out the mould.</p>
+                                        <img src="img/w12_removingthemoldwithair.jpg" alt="" width="500">
+                                        <h5>Errors</h5>
+                                <h5>My biggest error was to make the walls not heigh enough (only 3mm extra).</h5>
+                                <p>What I did nt think of, is the material expanding inside the pressured environement, and therefore liquid overflowing, with the remaining mix not sufficient to cover the whole mould.</p>
+                                   <img src="img/w12_wallsnotbigenough.jpg" alt="" width="500">
+                                
+                                
+                                <h5>Final results </h5>
+                                <p>Using pressured air I could slowly removed the mould without too much difficulty</p>
+                                <img src="img/w12_removingthemoldwithair.jpg" alt="" width="500">
+                                
+                                  <h5>Ensuring the mould is food safe</h5>
+                                <p>Following the directions on the datasheets (<a href="https://www.smooth-on.com/msds/files/BD_DS_Eco_Equ_EZB_EZS_Psy_MS_OOMOO_Reb_ST_SS_Soma_Sol_Sorta.pdf">link to the datasheet for Smooth-Sil® 940</a>) & Specific instructions for Food Safety (<a href="https://www.smooth-on.com/tb/files/FOOD_SAFE_SILICONES.pdf">link to Food Safe Silcone</a>) I put the mould 4 hours at 100degrees to ensure it could be used for food.</p>
+                                <img src="img/w12_oven_4hours_100degrees.jpg" alt="" width="500">
+                                
+                                        <h5>Cooking Time</h5>
+                                        <p>The final part of the journey. Miam Miam !! :):). I Melted some dark chocolate, and pour it into the mould, then put the mould into the freezer because I could not wait to try it :)</p>
+                              <img src="img/w12_cooking2.jpg" alt="" width="500">
+                                          <img src="img/w12_cooking3.jpg" alt="" width="500">           
+                                   <img src="img/w12_jcIMG_6619.jpg" alt="" width="500">
+                                
+                                <h4>Another attempt to mould with bigger wall this time & silicon resin this time </h4>
+                               <img src="img/w12_I_madeBiggerwall.jpg" alt="" width="500">
+                                          <img src="img/w12MaterialA.jpg" alt="" width="500">                                                          
+                   
+                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        
+            <!-- Modal 13 INput Devices-->
+    <div class="portfolio-modal modal fade" id="portfolioModal13" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>Week 13 Input Devices</h2>
+                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                <img class="img-fluid d-block mx-auto" src="https://s3.amazonaws.com/fab17img/website/Assignments/05-full.jpg" alt="">
+                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                <ul class="list-inline">
+                                    <li>Date: January 2017</li>
+                                    <li>Client: Southwest</li>
+                                    <li>Category: Website Design</li>
+                                </ul>
+                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        
+                    <!-- Modal 14 Composites-->
+    <div class="portfolio-modal modal fade" id="portfolioModal14" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>Week 14</h2>
+                                <p class="item-intro text-muted">Composites</p>
+                                <img class="img-fluid d-block mx-auto" src="img/w14-heroe-shot-cloth-frame.jpg" alt="" with="800">
+                                <p>Students should:</p>
+                                <ul class="list-inline">
+                                    <li>.</li>
+                                    <li>Included your design files and ‘hero shot’ photos of the mould and the final part.</li>
+                                    <li>Shown how you made your mould and created the composite.</li>
+                                    <li>Described problems and how you fixed them</li>
+                                    <li>Read and linked to the material safety data sheet (MSDS) and technical data sheet (TDS) for the resins that you’re using.</li>
+                                </ul>
+                                
+                                
+                                <h4>Production of Composite</h4>
+                                <h5>Design Creation</h5>
+                                  <img src="img/w14-foam-model-aftermilling.jpg" alt="" width="800">
+                                
+                                     <h5>Milling</h5>
+                                     <img src="img/w14-millingfoamStart.jpg" alt="" width="800">
+                                <img src="img/w14-foam-model-aftermilling.jpg" alt="" width="800">
+                                        
+                                   <h5>Making Composite</h5>
+                                <p>Starting with safety (chemical protection gloves, and glasses), I mixed 2 volumes of expoxy with one volume of hardener. Bear in mind you have about 10-15 mins to cover your fabrics with the mix before it becomes hard.</p>
+                                <img src="img/w14-expoxy-hardener-safety.jpg" alt="" width="800">
+                                <img src="img/w14-mix2for1.jpg" alt="" width="800">
+                                <h5>Layer after layer</h5>
+                                <p>Once the layers of fabrics have been recoverred by the mix, place them on the mould. Previously I added a layer of non sticking Polypropylene plastic Sheet (green color) onto the mold. Then add a layer of blue respirant mateial onto the fabrics, then a layer of abosrbent coton, covered by another layer of green platic to protect the vacumm machine. Once this is one add a layer of plastic (general use) at the bottom and top of your moudl to avoid making the vacumm machine dirty with expoxy »</p>
+                                 <img src="img/w14-layers.jpg" alt="" width="800">
+                                
+                                     <img src="img/w14-placingmaterial_vaccum.jpg" alt="" width="800">
+                                      
+                              <img src="img/w14-babyreadytobevacummed.jpg" alt="" width="800">
+                                <p>I also cut some polystyrene shapes to act a negative mould.</p>
+                                <img src="img/w14-useofpolystyrenetoshapethemold.jpg" alt="" width="800">
+                               
+                            
+                                
+                                <h4>Results of the second model</h4>
+                                         
+                                <img src="img/w14-finalresut-flowers.jpg" alt="" width="800">
+                                <p>For the second attempt i used a lighter color fabric, and made it as a 3 layers composites. The objective was to have a better transparency of the composite result. The other difference is that I was way more concentrated (learned from my previous composite) when doing this composite.</p>
+                                
+                                <ul class="list-inline">
+                                    <li>Learning and recommendations</li>
+                                    <li>Ensure you follow exactly the proportion of Hardener and Expoxy lised. I discovered by reading in more details that we have a 3% margin for error in the mix.</li>
+                                    <li>Ensuring all the surface of the each layer is properly covered with the mix.</li>
+                                    <li>Ideally use a negative mould to ensure your composite follows your mold once in the vacuum</li>
+                                    
+                                </ul>
+                       
+                    <BR>
+                                     <h4>WorkShop on Bio Platic</h4>
+                                <img src="img/w14-Bio_Plastic_workshop.jpg" alt="" width="800">
+                                <p>This is what we did..."</p>
+                            
+                                <BR>
+                                    
+                                        <h4>Composite model</h4>
+                                    
+                                <h4>Workshop on natural Composites</h4>
+                                    <h5>Production of Half clay/marble plate</h5>
+                                    <p>I wanted to create a plate with 2 different materials. One one side is 1 volume of potassium silicate K2SiO3, and 1 volumne of water with marble grains (mixed until i have the right consistency (wet but not almost solid), this is the white part. On the other side, 1 vol of potassium silicate, and 1 volumne of water with clay. I then put the plastic tray in the oven at 50 degrees, then let it dry outside </p>
+                                    <img src="img/w14-silicium-potassium.jpg" alt="" width="600">
+                                    
+                                    <img src="img/w14-halfclay-marble-plate.jpg" alt="" width="600">
+                                    
+                                    
+                                     <img src="img/w14" alt="" width="40">
+                                    <h5>Production of bended wood shelf</h5>
+                                    <img src="img/w14-bending%20wood.jpg" alt="" width="600">
+                                    <img src="img/w14-gluewood.jpg" alt="" width="600">
+                                    <img src="img/w14-final-result-wood.JPG" alt="" width="600">
+                                     
+                                
+                                
+                                    <h4>Files to download</h4>
+                                    <a href="https://github.com/noccito/JCT/blob/master/w14-composites-frames-rhino.3dm">Rhino 3dm Format file of the composite flower frame</a>
+                        </BR>
+                                    <a href="https://github.com/noccito/JCT/blob/master/w14-Frame_STL.stl">STL Format file of the composite flower frame</a>
+                        
+                        <h4>Useful links</h4>
+                        <a href="http://pqcorp.com/Portals/1/docs/KASIL_33.pdf">Material Safety datasheet Potassium Silicate Solution</a>
+                        
+                        <BR>
+                            
+                           <p>Polyurethane Adhesives  major advantage over many adhesives is its ability to set in high moisture conditions. </p> 
+                          <a href="http://www.christinedemerchant.com/adhesive-glue-polyurethane.html">More info</a>  
+                            
+                             <a href="http://www.easycomposites.co.uk/#!/patterns-moulds-and-tooling/Mould-Making-Materials">List of available mould making materials from easycomposites</a>
+                       
+                                    
+                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        
+                
+                    <!-- Modal 15 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal15" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>Week 15</h2>
+                                <p class="item-intro text-muted">Networking and Communications</p>
+                                <img class="img-fluid d-block mx-auto" src="img/w15-eagle-bridge-PNG.png" alt="">
+                                <H4>Assignment: Design and build a wired &/or wireless network connecting at least two processors.!</H4>
+                                <P>I have decided to design the serial bus asynchronous with a one bridge and one node.</P>
+                                            
+                                  <ul class="list-inline">
+                                    <li><h5>I took the opportunty to explore Eagle in more details & discover 3 features I was not aware off</h5></li>
+                                    <li><h5>utouroute tool to connect components in board view</h5></li>
+                                       <img src="img/w15-using-autorouter-eagle.jpg"alt="" width="400">
+                                      <li><h5>Autorouter warnings </h5></li>
+                                         <img src="img/w15-autorouting-bluelineback.jpg"alt="" width="400">
+                                      <BR>
+                                    <li><h5>Setting the Autorouter correctly</h5></li>
+                                        <img src="img/w15-SettingAutorouter.jpg"alt="" width="400">
+                                      
+                    
+                                      <BR>
+                                        <li><h5>Make use of the options misc in Eagle</h5></li>
+                                         <img src="img/w15-settings-eagle-misc.jpg"alt="" width="400">
+                                          <BR>
+                                              
+                                            <li><h5><a href="http://lika.be/wp/2008/12/unroute-a-complete-pcb-in-eagle/">>Finally link to unrip a complete PCB in Eagle</a></h5></li>  
+                                </ul>
+                               
+                                          
+                                          <h4>Schematic in Eagle</h4>
+                                     <img src="img/W15-Bridge-Eagle-Schematic.jpg"alt="" width="800">
+                               
+                                
+                                
+                                
+                               
+                                
+                                <h4>Files</h4>
+                                
+                                 <p><a href="img/W15-Eagle-Serialbus-Asynchronous-brigde.sch">Eagle-Serialbus-Asynchronous-brigde Schematic</a></p>
+                                     <p><a href="img/W15-Eagle-Serialbus-Asynchronous-brigde.brd">LEagle-Serialbus-Asynchronous-brigde Board</a></p>
+                                <p><a href="img/W15-Eagle-Serialbus-Asynchronous-node.sch">LEagle-Serialbus-Asynchronous-Node Schematic</a></p>
+                                <p><a href="img/W15-Eagle-Serialbus-Asynchronous-node.brd">LEagle-Serialbus-Asynchronous-Node Board</a></p>
+                                
+                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        
+          
+                    <!-- Modal 16 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal16" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>Week 16</h2>
+                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                <img class="img-fluid d-block mx-auto" src="https://s3.amazonaws.com/fab17img/website/Assignments/05-full.jpg" alt="">
+                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                <ul class="list-inline">
+                                    <li>Date: January 2017</li>
+                                    <li>Client: Southwest</li>
+                                    <li>Category: Website Design</li>
+                                </ul>
+                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="lib/jquery/jquery.min.js"></script>
+    <script src="lib/tether/tether.min.js"></script>
+    <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+
+    <!-- Contact form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Cusotm JavaScript for this theme -->
+    <script src="js/agency.min.js"></script>
+
+</body>
+        
+      
+
+</html>
